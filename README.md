@@ -1,6 +1,6 @@
 # Hackoctoberfest'19 Guwahati
 
-Please read this document completely
+The Hackoctober site is filled up with great resources for open source
 
 # What is opensource?
 
