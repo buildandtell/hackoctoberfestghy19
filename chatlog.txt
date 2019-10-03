@@ -6,3 +6,49 @@ so will give a proper intro to the group tomorrow morning.
 
 Oct 3rd
 ---
+- [03/10/19, 12:58:38 PM] Hrishikesh: 🧶(1/4)
+
+Hello and welcome! 🎉
+
+The goal for this group is to give you the help you need to get started in contributing to open source. 
+
+We'll have a daylong meetup consisting of interesting talks and workshops on a weekend after the 10th of October'19 and another one towards the end of October.
+
+Will share more information on offline events very soon.
+- [03/10/19, 12:59:10 PM] Hrishikesh: 🧶(2/4)
+
+Through the lifetime of this group *(Oct 2nd - Nov 2nd)* we’ll work from the small —creating your GitHub account, then understanding what open source is. Then step out and invite some interesting people to do AMAs here in the group, learn some best practices and importance of communication in OSS, share learning resources, etc.
+
+There is no specific time we meet here in the group, you should be able to get help at any time of the day.
+
+Once you complete the challenge, do let us know :)
+- [03/10/19, 1:00:04 PM] Hrishikesh: 🧶(3/4)
+
+What kinds of questions you can ask, you ask?
+
+💡If it's a code related help, but try googling first.
+💡If it's a question related to git/GitHub any other tool involved.
+💡If you're not able to find a repository to contribute to.
+💡If you need learning material on something.
+💡If it's about the opensource ecosystem.
+
+If you think any other question is appropriate for the group, please do ask.
+
+We'll keep a daily chat log at: http://bit.ly/hof-ghy-chat so that new participants can view previous messages.
+- [03/10/19, 1:00:12 PM] ‪+91 98663 94273‬: 👍🏽
+- [03/10/19, 1:00:55 PM] Hrishikesh: 🧶(4/4)
+
+Everyone in the group can help everyone, but we also have members who are maintainers of OSS projects, GSoC mentors and people who have been contributing to OSS for a significant amount of time, so you're well backed. 👨‍👨‍👦‍👦👩‍👩‍👧‍👧
+
+I'd encourage members to introduce themselves.
+
+One more thing,
+
+This isn’t a WhatsApp University :D, it’s a conversation. If you don’t understand something, have any question, please ask.
+- [03/10/19, 1:03:48 PM] Hrishikesh: So all the best! 👊👊
+get started by registering yourself for Hacktoberfest! let us know if you get stuck.
+
+btw,
+@919742807738 and @918638570566 are maintaining repositories already participating in Hackoctoberfest. @919742807738 is giving away goodies too for top contributors. ✨🎁📦💫
+- [03/10/19, 1:09:56 PM] ‪+91 97428 07738‬: 🤟🏻
+
