@@ -33,11 +33,11 @@ Once you complete the challenge, do let us know :)
 
 What kinds of questions you can ask, you ask?
 
-💡If it's a code related help, but try googling first.
-💡If it's a question related to git/GitHub any other tool involved.
-💡If you're not able to find a repository to contribute to.
-💡If you need learning material on something.
-💡If it's about the opensource ecosystem.
+- 💡If it's a code related help, but try googling first.
+- 💡If it's a question related to git/GitHub any other tool involved.
+- 💡If you're not able to find a repository to contribute to.
+- 💡If you need learning material on something.
+- 💡If it's about the opensource ecosystem.
 
 If you think any other question is appropriate for the group, please do ask.
 
