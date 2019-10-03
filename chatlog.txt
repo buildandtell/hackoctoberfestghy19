@@ -51,4 +51,31 @@ get started by registering yourself for Hacktoberfest! let us know if you get st
 btw,
 @NUMBER and @NUMBER are maintaining repositories already participating in Hackoctoberfest. @NUMBER is giving away goodies too for top contributors. ✨🎁📦💫
 - [03/10/19, 1:09:56 PM] ‪+NUMBER‬: 🤟🏻
+- [03/10/19, 1:42:24 PM] ‪+NUMBER‬: Hello everyone my name is Somraj. I am studying CSE(3rd semester) from GIMT and I am a beginner in open source contribution.. So from where should I start learning about it?
+- [03/10/19, 1:44:39 PM] ‪+NUMBER‬: Hello everyone I am Manjeet. I am studying BSc. (CS) from Cotton University. I have no idea about open source. So from where to start now?
+- [03/10/19, 1:45:40 PM] Rajat: As already mentioned start with GitHub account. Make one
+- [03/10/19, 1:47:03 PM] ‪+NUMBER‬: what to do next? if i'm already a github user.
+- [03/10/19, 1:48:11 PM] Nitya: https://github.com/buildandtell/hackoctoberfestghy19/blob/master/wa_greet.md
+- [03/10/19, 1:48:23 PM] Nitya: ‎This message was deleted.
+- [03/10/19, 1:48:36 PM] Nitya: Register for Hacktoberfest
+- [03/10/19, 1:49:08 PM] Hrishikesh: https://hacktoberfest.digitalocean.com/details
 
+this is a good first step👆 read through the *intro to open source* by digital ocean. it's a good intro.
+
+(this page is best viewed on larger screens)
+- [03/10/19, 2:02:38 PM] ‪+NUMBER‬: Have a rough idea on how github and open source works. Would be preparing for the upcoming GSOC next year. Would continue tuning Mozilla and its UI for now.
+- [03/10/19, 2:15:23 PM] ‪+NUMBER‬: Hello everyone I am Reckon, currently studying in AEC 1st sem (CSE). I am just a learner and don't have much knowledge about open source. Looking forward to learn a lot from here.
+- [03/10/19, 2:16:04 PM] ‪+NUMBER‬: Are reckon, ki khabor bhai?
+- [03/10/19, 2:16:50 PM] Joinal WA: I request to take chit chats outside the group
+- [03/10/19, 2:21:26 PM] ‪+NUMBER‬: Hello everyone I am Uddipon, currently studying in AEC 1st sem (EE). I am just a learner and don't have much knowledge about open source. Looking forward to learn a lot from here.
+- [03/10/19, 2:32:50 PM] ‪+NUMBER‬: 👍👍
+- [03/10/19, 2:49:27 PM] ‪+NUMBER‬: Sorry
+- [03/10/19, 3:59:22 PM] ‪+NUMBER‬: Hi folks! Guining here, ECE 3rd year at IITG. Deeply immersed in the field of robotics and computer vision. Found this to be quite interesting, so decided to dive in and explore! Would love to meet others with similar interests!
+- [03/10/19, 4:04:03 PM] Saurav Twittee: Hello everyone! Sourav here 
+Let us know if you are having any problems, feel free to ask here!
+- [03/10/19, 4:07:16 PM] Saurav Twittee: I guess everyone has a GitHub account and Registered for Hacktoberfest!
+- [03/10/19, 4:11:10 PM] Hrishikesh: the chatlog is available here: http://bit.ly/hof-ghy-chat
+- [03/10/19, 4:11:29 PM] ‪+NUMBER‬: Hello Sourav. I joined late, so no what this is about. Can anybody please brief me!
+- [03/10/19, 4:11:52 PM] ‪+NUMBER‬: Cool
+- [03/10/19, 4:11:54 PM] Joinal WA: Read here http://bit.ly/hof-ghy-chat
+- [03/10/19, 4:12:01 PM] ‪+NUMBER‬: Thanks
