@@ -35,7 +35,7 @@ What kinds of questions you can ask, you ask?
 If you think any other question is appropriate for the group, please do ask.
 
 We'll keep a daily chat log at: http://bit.ly/hof-ghy-chat so that new participants can view previous messages.
-- [03/10/19, 1:00:12 PM] ‪+91 98663 94273‬: 👍🏽
+- [03/10/19, 1:00:12 PM] ‪+NUMBER‬: 👍🏽
 - [03/10/19, 1:00:55 PM] Hrishikesh: 🧶(4/4)
 
 Everyone in the group can help everyone, but we also have members who are maintainers of OSS projects, GSoC mentors and people who have been contributing to OSS for a significant amount of time, so you're well backed. 👨‍👨‍👦‍👦👩‍👩‍👧‍👧
@@ -49,6 +49,6 @@ This isn’t a WhatsApp University :D, it’s a conversation. If you don’t und
 get started by registering yourself for Hacktoberfest! let us know if you get stuck.
 
 btw,
-@919742807738 and @918638570566 are maintaining repositories already participating in Hackoctoberfest. @919742807738 is giving away goodies too for top contributors. ✨🎁📦💫
+@NUMBER and @NUMBER are maintaining repositories already participating in Hackoctoberfest. @NUMBER is giving away goodies too for top contributors. ✨🎁📦💫
 - [03/10/19, 1:09:56 PM] ‪+91 97428 07738‬: 🤟🏻
 
