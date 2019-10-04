@@ -79,3 +79,113 @@ Let us know if you are having any problems, feel free to ask here!
 - [03/10/19, 4:11:52 PM] ‪+NUMBER‬: Cool
 - [03/10/19, 4:11:54 PM] Joinal WA: Read here http://bit.ly/hof-ghy-chat
 - [03/10/19, 4:12:01 PM] ‪+NUMBER‬: Thanks
+- [03/10/19, 4:15:43 PM] ‪NUMBER:‬: Where can I find the challenges?
+- [03/10/19, 4:16:42 PM] Hrishikesh: https://hacktoberfest.digitalocean.com/
+- [03/10/19, 4:17:04 PM] Saurav Twittee: also, check out the page! https://hackoctoberfest-ghy.netlify.com/
+You must have a GitHub account and then registered for it.
+- [03/10/19, 4:23:18 PM] ‪NUMBER:‬: Thanks. Checking out
+- [03/10/19, 4:23:49 PM] Joinal WA: @NUMBER can we do a bot of some kind, auto greet with pointers to relevant links
+- [03/10/19, 4:26:45 PM] ‪NUMBER:‬: registered in github and hacktober.Now what next?
+- [03/10/19, 4:27:23 PM] ‪NUMBER:‬: https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
+
+
+Can we all contribute to this one?
+- [03/10/19, 4:30:52 PM] Hrishikesh: does it have a github repository? for participating, the project you're going to contribute to has to be hosted on GitHub.
+- [03/10/19, 4:31:57 PM] ‪NUMBER:‬: Oh okay, I need to check that.
+- [03/10/19, 4:33:16 PM] Hrishikesh: you need to find a repository/project to contribute to.  see the section Hacktoberfest projects at https://hacktoberfest.digitalocean.com/
+
+you can filter projects based on languages you know there.
+- [03/10/19, 4:34:52 PM] ‪NUMBER:‬: We can choose any project on github, right?
+- [03/10/19, 4:35:05 PM] Hrishikesh: that's true.
+- [03/10/19, 4:35:15 PM] ‪NUMBER:‬: 👍🏻
+- [03/10/19, 4:48:09 PM] Hrishikesh: think this will be an overkill for now, I've added the intro message from the morning to the *Read this first* link in the group description.
+- [03/10/19, 4:48:22 PM] Joinal WA: Okay
+- [03/10/19, 4:48:50 PM] Joinal WA: But, can be a great task for contributions
+- [03/10/19, 4:52:40 PM] Hrishikesh: haha, damn right. Contributing to your own repositories still count as contributions towards the 4PRs for Hackoctoberfest.
+
+as long as you don't abuse this, 10/10 someone can take this project up. 😁
+- [03/10/19, 4:53:09 PM] Joinal WA: Yes
+- [03/10/19, 4:53:16 PM] Joinal WA: And we can use this later also
+- [03/10/19, 4:53:28 PM] Joinal WA: Or maybe opensource it for future
+- [03/10/19, 4:54:19 PM] ‪NUMBER:‬: Ah, I've my own repo, I can work on that then
+- [03/10/19, 4:54:43 PM] ‪NUMBER:‬: @NUMBER, remember? Last year you too contributed to that!
+- [03/10/19, 4:58:25 PM] Hrishikesh: the only drawback i see to this is that, you will not get feedbacks and you'll just be confined to your own project. 
+
+Contributing to someone else's code, 
+1. you'll learn to read other ppl's code
+2. you'll have to communicate with them
+3. you meet new people.
+4. most of the time when you contribute to some well written repository, you end up writing better code.
+
+I think there are many more benifits to contributing to someone else's project.
+- [03/10/19, 4:58:38 PM] ‪NUMBER:‬: My humble suggestion is to understand how many of the group members know how to use github
+- [03/10/19, 4:59:30 PM] Joinal WA: Agreed
+- [03/10/19, 4:59:31 PM] ‪NUMBER:‬: I barely know!
+- [03/10/19, 5:00:46 PM] ‪NUMBER:‬: I can rate my github using skills for like 7 from a scale of 0 to 10
+- [03/10/19, 5:01:58 PM] ‪NUMBER:‬: For those who are new to GitHub, someone needs to help them out
+- [03/10/19, 5:02:04 PM] ‪NUMBER:‬: Mine is barely 1. I can just code & upload!
+- [03/10/19, 5:02:55 PM] ‪NUMBER:‬: I think this should be the first step if we want our mission to succeed in the long run
+- [03/10/19, 5:03:16 PM] ‎‪NUMBER:‬ joined using this group's invite link
+- [03/10/19, 5:04:54 PM] Hrishikesh: @NUMBER has a video up on YouTube where he explains Git and GitHub in Assamese. 
+
+I am sure it'll help. 
+https://youtu.be/v3SIwwPjUGU
+
+We'll try to add a beginner section to the website as well. soon.
+- [03/10/19, 5:05:26 PM] ‪NUMBER:‬: Sure, thanks for sharing the video
+- [03/10/19, 5:06:08 PM] ‪NUMBER:‬: Can we also plan for some knowledge sharing session on GitHub for the beginners
+- [03/10/19, 5:06:22 PM] ‪NUMBER:‬: Lot of youtube tutorials available for the same
+- [03/10/19, 5:06:25 PM] ‪NUMBER:‬: I can we can make them use some youtube references to learn everything about Github and Git as a whole
+- [03/10/19, 5:06:45 PM] ‎‪NUMBER:‬ joined using this group's invite link
+- [03/10/19, 5:07:18 PM] ‪NUMBER:‬: Videos are there but actual hands on session will be better
+- [03/10/19, 5:08:30 PM] Hrishikesh: We're planning for an offline meetup after 10th October. date and venue is not fixed yet. will keep the group updated about it.
+- [03/10/19, 5:09:00 PM] ‪NUMBER:‬: Ok sure, thanks for the initiative
+- [03/10/19, 5:10:04 PM] ‎Joinal WA added ‪NUMBER:‬
+- [03/10/19, 5:10:30 PM] Joinal WA: @NUMBER connect with Girlscript Guwahati lead
+- [03/10/19, 5:11:55 PM] Hrishikesh: messaged on LinkedIn, waiting for response.
+- [03/10/19, 5:12:09 PM] Joinal WA: Shall i ask Anubha about this?
+- [03/10/19, 5:12:20 PM] Amartya Sk: Eshita Nandy ?
+- [03/10/19, 5:12:31 PM] Joinal WA: FYI Anubha is Girlscript founder?
+- [03/10/19, 5:12:35 PM] Joinal WA: I guess so
+- [03/10/19, 5:33:51 PM] Saurav Twittee: That will be awesome
+- [03/10/19, 5:36:13 PM] Saurav Twittee: Connect with the local coding clubs,chapters and if there any gdg ah we don't have an active gdg yet from northeast!!
+- [03/10/19, 5:47:14 PM] Mriyam da: For the people asking Git and/or GitHub, I've found these videos to be helpful in the past(only for those who don't prefer text, but text is almost always better than video),
+
+https://www.youtube.com/watch?v=0fKg7e37bQE
+https://www.youtube.com/watch?v=oFYyTZwMyAg
+---
+Also, the link shared by @NUMBER from Julia's blog - https://jvns.ca/blog/good-questions/ is a must read for people getting into open source.
+If you do read this, I'd also suggest this as additional reading - http://www.catb.org/~esr/faqs/smart-questions.html
+- [03/10/19, 5:51:10 PM] ‪NUMBER:‬: Gdg chapter is required
+- [03/10/19, 6:06:08 PM] ‪NUMBER:‬: Thanks
+- [03/10/19, 7:06:46 PM] Saurav Twittee: Hi 
+
+You can simply contribute to documentation part for a project too other than coding!
+
+
+Just keep on looking for a good issue that you are interested to work on,make sure you leave a comment there in that issue that you wanna work on so that the maintainer can assign you for that then simply fork it,make changes as mentioned in the issue and make Pull Request!
+- [03/10/19, 7:31:37 PM] ‪NUMBER:‬: what else we can work on apart from coding?
+- [03/10/19, 8:09:05 PM] Mriyam da: Open source projects require a lot of help apart from coding. 
+
+You can help -
+
+* Write documentation
+* Triage issues
+and many others.
+- [03/10/19, 8:11:15 PM] Mriyam da: But whatever information we're giving is likely less compared to the curated resources explaining every question being asked by beginners which can be found here in the link @NUMBER mentioned. 
+
+
+https://hacktoberfest.digitalocean.com/details
+
+
+Check the beginners section
+- [03/10/19, 8:15:00 PM] Mriyam da: For example, I checked out https://www.firsttimersonly.com/, which I got from the above link.
+
+There is a really cool video mentioned - http://www.getinvolvedintech.com/
+
+Also found a link to a site which displays any GitHub user's first PR, and as an example here is Kent's first PR https://github.com/playframework/playframework/pull/616
+
+It's just a spelling mistake fix, which is perfect for a first time PR. It shows that one understands Git and knows how to create a pull request on GitHub.
+- [03/10/19, 8:30:15 PM] Hrishikesh: the video mentioned by @NUMBER  is from Scott Hanselman's page. Very friendly person to follow on Twitter, he tweets about oss as well.
+
+https://mobile.twitter.com/shanselman
