@@ -190,6 +190,9 @@ It's just a spelling mistake fix, which is perfect for a first time PR. It shows
 
 https://mobile.twitter.com/shanselman
 
+Oct 4th
+---
+
 - [04/10/19, 10:20:14 PM] Hrishikesh: *Link Summary - 3rd October*
 
 WhatsApp Intro Message: https://bit.ly/hof-ghy-wa
@@ -210,6 +213,10 @@ https://github.com/playframework/playframework/pull/616
 https://mobile.twitter.com/shanselman
 https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread
 - [04/10/19, 10:29:23 PM] ‪NUMBER:‬: Thank you 👍🏼
+
+Oct 5th
+---
+
 - [05/10/19, 1:03:52 AM] Mriyam da: https://css-tricks.com/how-to-contribute-to-an-open-source-project/ by Sarah( https://twitter.com/sarah_edo | https://github.com/sdras ) is also an awesome link. Tells you the meta information that is required when contributing like, _Look through the existing issues and PRs_ and other helpful tips.
 - [05/10/19, 9:43:48 AM] Anubhav: Can we make it into a sticky or pinned message?
 - [05/10/19, 10:08:07 AM] Guyaec: it's in description, and the rest remaining links can be put there. but not as sticky banner like telegram WhatsApp doesn't have that I think.
@@ -227,6 +234,10 @@ There will also be supporting instructions on how to go about adding your name a
 
 Thanks to @NUMBER for the idea.
 - [05/10/19, 11:44:34 PM] ‪NUMBER:‬: Wow. Awesome 👌
+
+Oct 6th
+---
+
 - [06/10/19, 8:10:25 PM] Joinal WA: ❤️ Open Source 🎉
 ****** Hacktober Fest - Guwahati ******
 Want to know all about Hacktoberfest and participate? We are here to help with Github PRs and repo contributions. Ask us anything in our Hacktoberfest meetups and start your open source journey.
