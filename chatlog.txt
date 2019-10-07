@@ -189,3 +189,67 @@ It's just a spelling mistake fix, which is perfect for a first time PR. It shows
 - [03/10/19, 8:30:15 PM] Hrishikesh: the video mentioned by @NUMBER  is from Scott Hanselman's page. Very friendly person to follow on Twitter, he tweets about oss as well.
 
 https://mobile.twitter.com/shanselman
+
+- [04/10/19, 10:20:14 PM] Hrishikesh: *Link Summary - 3rd October*
+
+WhatsApp Intro Message: https://bit.ly/hof-ghy-wa
+Previous chatlog: http://bit.ly/hof-ghy-chat
+Homepage GHY: https://hackoctoberfest-ghy.netlify.com
+Homepage DO: https://hacktoberfest.digitalocean.com
+Git and Github in Assamese: https://www.youtube.com/watch?v=v3SIwwPjUGU
+Intro to Git P1: https://www.youtube.com/watch?v=0fKg7e37bQE
+Intro to Git P2: https://www.youtube.com/watch?v=oFYyTZwMyAg
+On asking question P1: https://jvns.ca/blog/good-questions
+On asking question P2: http://www.catb.org/~esr/faqs/smart-questions.html
+Learning Resources: https://hacktoberfest.digitalocean.com/details
+
+Other links:
+https://www.firsttimersonly.com
+http://www.getinvolvedintech.com
+https://github.com/playframework/playframework/pull/616
+https://mobile.twitter.com/shanselman
+https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread
+- [04/10/19, 10:29:23 PM] ‪NUMBER:‬: Thank you 👍🏼
+- [05/10/19, 1:03:52 AM] Mriyam da: https://css-tricks.com/how-to-contribute-to-an-open-source-project/ by Sarah( https://twitter.com/sarah_edo | https://github.com/sdras ) is also an awesome link. Tells you the meta information that is required when contributing like, _Look through the existing issues and PRs_ and other helpful tips.
+- [05/10/19, 9:43:48 AM] Anubhav: Can we make it into a sticky or pinned message?
+- [05/10/19, 10:08:07 AM] Guyaec: it's in description, and the rest remaining links can be put there. but not as sticky banner like telegram WhatsApp doesn't have that I think.
+- [05/10/19, 11:42:04 PM] Hrishikesh: Hello, hope everyone is doing good!
+
+By now, most of us already know that a GitHub repository can contain anything and not only code.
+
+So, @NUMBER is preparing a GitHub repository which will be a list of all members from this group with their github handle and other social media links. 🌎
+
+members of this group can make a PR with their name, github handle and social links. 
+
+this will help know each other better as well as will be a good first PR. :)
+
+There will also be supporting instructions on how to go about adding your name and links to the list with a PR.
+
+Thanks to @NUMBER for the idea.
+- [05/10/19, 11:44:34 PM] ‪NUMBER:‬: Wow. Awesome 👌
+- [06/10/19, 8:10:25 PM] Joinal WA: ❤️ Open Source 🎉
+****** Hacktober Fest - Guwahati ******
+Want to know all about Hacktoberfest and participate? We are here to help with Github PRs and repo contributions. Ask us anything in our Hacktoberfest meetups and start your open source journey.
+
+Git Repo : https://github.com/buildandtell/learnPR
+YouTube video : https://youtu.be/aR4KPfCEtrQ
+More information at : 
+https://hacktoberfest.fossassam.tech
+- [06/10/19, 8:10:52 PM] Joinal WA: Share this with post with folks you think would be interested
+- [06/10/19, 8:50:21 PM] Hrishikesh: Hello everyone,
+this is a task update for everyone in this group. 
+
+I mentioned yesterday about a project having the list of members of this group. 
+
+you've to submit your own info to the repository in form of a pr. 
+
+the repository is available here:
+
+https://github.com/buildandtell/learnPR
+
+there's also a YouTube tutorial available following the instructions given in the repository :
+
+https://youtu.be/aR4KPfCEtrQ
+- [06/10/19, 8:56:11 PM] Anubhav: Yep, on it. I'm stuck in traffic, around 30mins out. 😀😀
+- [06/10/19, 11:39:32 PM] ‪NUMBER:‬: Hello everyone!
+Beginner in OpenSource ,looking forward to have a month full of learning
