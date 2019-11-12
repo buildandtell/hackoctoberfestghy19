@@ -35,7 +35,7 @@ What kinds of questions you can ask, you ask?
 If you think any other question is appropriate for the group, please do ask.
 
 We'll keep a daily chat log at: http://bit.ly/hof-ghy-chat so that new participants can view previous messages.
-- [03/10/19, 1:00:12 PM] ‪+NUMBER‬: 👍🏽
+- [03/10/19, 1:00:12 PM] ‪NUMBERNUMBER‬: 👍🏽
 - [03/10/19, 1:00:55 PM] Hrishikesh: 🧶(4/4)
 
 Everyone in the group can help everyone, but we also have members who are maintainers of OSS projects, GSoC mentors and people who have been contributing to OSS for a significant amount of time, so you're well backed. 👨‍👨‍👦‍👦👩‍👩‍👧‍👧
@@ -49,12 +49,12 @@ This isn’t a WhatsApp University :D, it’s a conversation. If you don’t und
 get started by registering yourself for Hacktoberfest! let us know if you get stuck.
 
 btw,
-@NUMBER and @NUMBER are maintaining repositories already participating in Hackoctoberfest. @NUMBER is giving away goodies too for top contributors. ✨🎁📦💫
-- [03/10/19, 1:09:56 PM] ‪+NUMBER‬: 🤟🏻
-- [03/10/19, 1:42:24 PM] ‪+NUMBER‬: Hello everyone my name is Somraj. I am studying CSE(3rd semester) from GIMT and I am a beginner in open source contribution.. So from where should I start learning about it?
-- [03/10/19, 1:44:39 PM] ‪+NUMBER‬: Hello everyone I am Manjeet. I am studying BSc. (CS) from Cotton University. I have no idea about open source. So from where to start now?
+@NUMBERNUMBER and @NUMBERNUMBER are maintaining repositories already participating in Hackoctoberfest. @NUMBERNUMBER is giving away goodies too for top contributors. ✨🎁📦💫
+- [03/10/19, 1:09:56 PM] ‪NUMBERNUMBER‬: 🤟🏻
+- [03/10/19, 1:42:24 PM] ‪NUMBERNUMBER‬: Hello everyone my name is Somraj. I am studying CSE(3rd semester) from GIMT and I am a beginner in open source contribution.. So from where should I start learning about it?
+- [03/10/19, 1:44:39 PM] ‪NUMBERNUMBER‬: Hello everyone I am Manjeet. I am studying BSc. (CS) from Cotton University. I have no idea about open source. So from where to start now?
 - [03/10/19, 1:45:40 PM] Rajat: As already mentioned start with GitHub account. Make one
-- [03/10/19, 1:47:03 PM] ‪+NUMBER‬: what to do next? if i'm already a github user.
+- [03/10/19, 1:47:03 PM] ‪NUMBERNUMBER‬: what to do next? if i'm already a github user.
 - [03/10/19, 1:48:11 PM] Nitya: https://github.com/buildandtell/hackoctoberfestghy19/blob/master/wa_greet.md
 - [03/10/19, 1:48:23 PM] Nitya: ‎This message was deleted.
 - [03/10/19, 1:48:36 PM] Nitya: Register for Hacktoberfest
@@ -63,28 +63,28 @@ btw,
 this is a good first step👆 read through the *intro to open source* by digital ocean. it's a good intro.
 
 (this page is best viewed on larger screens)
-- [03/10/19, 2:02:38 PM] ‪+NUMBER‬: Have a rough idea on how github and open source works. Would be preparing for the upcoming GSOC next year. Would continue tuning Mozilla and its UI for now.
-- [03/10/19, 2:15:23 PM] ‪+NUMBER‬: Hello everyone I am Reckon, currently studying in AEC 1st sem (CSE). I am just a learner and don't have much knowledge about open source. Looking forward to learn a lot from here.
-- [03/10/19, 2:16:04 PM] ‪+NUMBER‬: Are reckon, ki khabor bhai?
+- [03/10/19, 2:02:38 PM] ‪NUMBERNUMBER‬: Have a rough idea on how github and open source works. Would be preparing for the upcoming GSOC next year. Would continue tuning Mozilla and its UI for now.
+- [03/10/19, 2:15:23 PM] ‪NUMBERNUMBER‬: Hello everyone I am Reckon, currently studying in AEC 1st sem (CSE). I am just a learner and don't have much knowledge about open source. Looking forward to learn a lot from here.
+- [03/10/19, 2:16:04 PM] ‪NUMBERNUMBER‬: Are reckon, ki khabor bhai?
 - [03/10/19, 2:16:50 PM] Joinal WA: I request to take chit chats outside the group
-- [03/10/19, 2:21:26 PM] ‪+NUMBER‬: Hello everyone I am Uddipon, currently studying in AEC 1st sem (EE). I am just a learner and don't have much knowledge about open source. Looking forward to learn a lot from here.
-- [03/10/19, 2:32:50 PM] ‪+NUMBER‬: 👍👍
-- [03/10/19, 2:49:27 PM] ‪+NUMBER‬: Sorry
-- [03/10/19, 3:59:22 PM] ‪+NUMBER‬: Hi folks! Guining here, ECE 3rd year at IITG. Deeply immersed in the field of robotics and computer vision. Found this to be quite interesting, so decided to dive in and explore! Would love to meet others with similar interests!
+- [03/10/19, 2:21:26 PM] ‪NUMBERNUMBER‬: Hello everyone I am Uddipon, currently studying in AEC 1st sem (EE). I am just a learner and don't have much knowledge about open source. Looking forward to learn a lot from here.
+- [03/10/19, 2:32:50 PM] ‪NUMBERNUMBER‬: 👍👍
+- [03/10/19, 2:49:27 PM] ‪NUMBERNUMBER‬: Sorry
+- [03/10/19, 3:59:22 PM] ‪NUMBERNUMBER‬: Hi folks! Guining here, ECE 3rd year at IITG. Deeply immersed in the field of robotics and computer vision. Found this to be quite interesting, so decided to dive in and explore! Would love to meet others with similar interests!
 - [03/10/19, 4:04:03 PM] Saurav Twittee: Hello everyone! Sourav here 
 Let us know if you are having any problems, feel free to ask here!
 - [03/10/19, 4:07:16 PM] Saurav Twittee: I guess everyone has a GitHub account and Registered for Hacktoberfest!
 - [03/10/19, 4:11:10 PM] Hrishikesh: the chatlog is available here: http://bit.ly/hof-ghy-chat
-- [03/10/19, 4:11:29 PM] ‪+NUMBER‬: Hello Sourav. I joined late, so no what this is about. Can anybody please brief me!
-- [03/10/19, 4:11:52 PM] ‪+NUMBER‬: Cool
+- [03/10/19, 4:11:29 PM] ‪NUMBERNUMBER‬: Hello Sourav. I joined late, so no what this is about. Can anybody please brief me!
+- [03/10/19, 4:11:52 PM] ‪NUMBERNUMBER‬: Cool
 - [03/10/19, 4:11:54 PM] Joinal WA: Read here http://bit.ly/hof-ghy-chat
-- [03/10/19, 4:12:01 PM] ‪+NUMBER‬: Thanks
+- [03/10/19, 4:12:01 PM] ‪NUMBERNUMBER‬: Thanks
 - [03/10/19, 4:15:43 PM] ‪NUMBER:‬: Where can I find the challenges?
 - [03/10/19, 4:16:42 PM] Hrishikesh: https://hacktoberfest.digitalocean.com/
 - [03/10/19, 4:17:04 PM] Saurav Twittee: also, check out the page! https://hackoctoberfest-ghy.netlify.com/
 You must have a GitHub account and then registered for it.
 - [03/10/19, 4:23:18 PM] ‪NUMBER:‬: Thanks. Checking out
-- [03/10/19, 4:23:49 PM] Joinal WA: @NUMBER can we do a bot of some kind, auto greet with pointers to relevant links
+- [03/10/19, 4:23:49 PM] Joinal WA: @NUMBERNUMBER can we do a bot of some kind, auto greet with pointers to relevant links
 - [03/10/19, 4:26:45 PM] ‪NUMBER:‬: registered in github and hacktober.Now what next?
 - [03/10/19, 4:27:23 PM] ‪NUMBER:‬: https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
 
@@ -108,7 +108,7 @@ as long as you don't abuse this, 10/10 someone can take this project up. 😁
 - [03/10/19, 4:53:16 PM] Joinal WA: And we can use this later also
 - [03/10/19, 4:53:28 PM] Joinal WA: Or maybe opensource it for future
 - [03/10/19, 4:54:19 PM] ‪NUMBER:‬: Ah, I've my own repo, I can work on that then
-- [03/10/19, 4:54:43 PM] ‪NUMBER:‬: @NUMBER, remember? Last year you too contributed to that!
+- [03/10/19, 4:54:43 PM] ‪NUMBER:‬: @NUMBERNUMBER, remember? Last year you too contributed to that!
 - [03/10/19, 4:58:25 PM] Hrishikesh: the only drawback i see to this is that, you will not get feedbacks and you'll just be confined to your own project. 
 
 Contributing to someone else's code, 
@@ -126,7 +126,7 @@ I think there are many more benifits to contributing to someone else's project.
 - [03/10/19, 5:02:04 PM] ‪NUMBER:‬: Mine is barely 1. I can just code & upload!
 - [03/10/19, 5:02:55 PM] ‪NUMBER:‬: I think this should be the first step if we want our mission to succeed in the long run
 - [03/10/19, 5:03:16 PM] ‎‪NUMBER:‬ joined using this group's invite link
-- [03/10/19, 5:04:54 PM] Hrishikesh: @NUMBER has a video up on YouTube where he explains Git and GitHub in Assamese. 
+- [03/10/19, 5:04:54 PM] Hrishikesh: @NUMBERNUMBER has a video up on YouTube where he explains Git and GitHub in Assamese. 
 
 I am sure it'll help. 
 https://youtu.be/v3SIwwPjUGU
@@ -141,7 +141,7 @@ We'll try to add a beginner section to the website as well. soon.
 - [03/10/19, 5:08:30 PM] Hrishikesh: We're planning for an offline meetup after 10th October. date and venue is not fixed yet. will keep the group updated about it.
 - [03/10/19, 5:09:00 PM] ‪NUMBER:‬: Ok sure, thanks for the initiative
 - [03/10/19, 5:10:04 PM] ‎Joinal WA added ‪NUMBER:‬
-- [03/10/19, 5:10:30 PM] Joinal WA: @NUMBER connect with Girlscript Guwahati lead
+- [03/10/19, 5:10:30 PM] Joinal WA: @NUMBERNUMBER connect with Girlscript Guwahati lead
 - [03/10/19, 5:11:55 PM] Hrishikesh: messaged on LinkedIn, waiting for response.
 - [03/10/19, 5:12:09 PM] Joinal WA: Shall i ask Anubha about this?
 - [03/10/19, 5:12:20 PM] Amartya Sk: Eshita Nandy ?
@@ -154,7 +154,7 @@ We'll try to add a beginner section to the website as well. soon.
 https://www.youtube.com/watch?v=0fKg7e37bQE
 https://www.youtube.com/watch?v=oFYyTZwMyAg
 ---
-Also, the link shared by @NUMBER from Julia's blog - https://jvns.ca/blog/good-questions/ is a must read for people getting into open source.
+Also, the link shared by @NUMBERNUMBER from Julia's blog - https://jvns.ca/blog/good-questions/ is a must read for people getting into open source.
 If you do read this, I'd also suggest this as additional reading - http://www.catb.org/~esr/faqs/smart-questions.html
 - [03/10/19, 5:51:10 PM] ‪NUMBER:‬: Gdg chapter is required
 - [03/10/19, 6:06:08 PM] ‪NUMBER:‬: Thanks
@@ -172,7 +172,7 @@ You can help -
 * Write documentation
 * Triage issues
 and many others.
-- [03/10/19, 8:11:15 PM] Mriyam da: But whatever information we're giving is likely less compared to the curated resources explaining every question being asked by beginners which can be found here in the link @NUMBER mentioned. 
+- [03/10/19, 8:11:15 PM] Mriyam da: But whatever information we're giving is likely less compared to the curated resources explaining every question being asked by beginners which can be found here in the link @NUMBERNUMBER mentioned. 
 
 
 https://hacktoberfest.digitalocean.com/details
@@ -186,7 +186,7 @@ There is a really cool video mentioned - http://www.getinvolvedintech.com/
 Also found a link to a site which displays any GitHub user's first PR, and as an example here is Kent's first PR https://github.com/playframework/playframework/pull/616
 
 It's just a spelling mistake fix, which is perfect for a first time PR. It shows that one understands Git and knows how to create a pull request on GitHub.
-- [03/10/19, 8:30:15 PM] Hrishikesh: the video mentioned by @NUMBER  is from Scott Hanselman's page. Very friendly person to follow on Twitter, he tweets about oss as well.
+- [03/10/19, 8:30:15 PM] Hrishikesh: the video mentioned by @NUMBERNUMBER  is from Scott Hanselman's page. Very friendly person to follow on Twitter, he tweets about oss as well.
 
 https://mobile.twitter.com/shanselman
 
@@ -224,7 +224,7 @@ Oct 5th
 
 By now, most of us already know that a GitHub repository can contain anything and not only code.
 
-So, @NUMBER is preparing a GitHub repository which will be a list of all members from this group with their github handle and other social media links. 🌎
+So, @NUMBERNUMBER is preparing a GitHub repository which will be a list of all members from this group with their github handle and other social media links. 🌎
 
 members of this group can make a PR with their name, github handle and social links. 
 
@@ -232,7 +232,7 @@ this will help know each other better as well as will be a good first PR. :)
 
 There will also be supporting instructions on how to go about adding your name and links to the list with a PR.
 
-Thanks to @NUMBER for the idea.
+Thanks to @NUMBERNUMBER for the idea.
 - [05/10/19, 11:44:34 PM] ‪NUMBER:‬: Wow. Awesome 👌
 
 Oct 6th
@@ -278,17 +278,17 @@ Once you create 4 PRs this month, and get them merged, you'll get a cool T-Shirt
 
 But this is not an exhaustive list, you can contribute to any project/repositories on GitHub, whether they are marked for Hacktoberfest or not.
 - [08/10/19, 11:52:53 AM] Mriyam da: If anyone *has gone through the already shared resources* and are still facing problems, you can message me directly with your question. Happy to help.
-- [08/10/19, 2:24:37 PM] ‪\+NUMBER:‬: https://youtu.be/yXT1ElMEkW8
-- [08/10/19, 2:25:29 PM] ‪\+NUMBER:‬: I found this to be extremely helpful so i thought i should share it
-- [08/10/19, 2:26:57 PM] Joinal WA: @NUMBER @NUMBER @NUMBER as per HacktoberFest guidelines, only high quality contributions qualify for a PR to recieve goodies from DO
+- [08/10/19, 2:24:37 PM] ‪\NUMBERNUMBER:‬: https://youtu.be/yXT1ElMEkW8
+- [08/10/19, 2:25:29 PM] ‪\NUMBERNUMBER:‬: I found this to be extremely helpful so i thought i should share it
+- [08/10/19, 2:26:57 PM] Joinal WA: @NUMBERNUMBER @NUMBERNUMBER @NUMBERNUMBER as per HacktoberFest guidelines, only high quality contributions qualify for a PR to recieve goodies from DO
 - [08/10/19, 2:27:05 PM] Joinal WA: Please comply
 - [08/10/19, 2:28:45 PM] Joinal WA: And discourage folks to apply for goodies with only basic PRs
-- [08/10/19, 2:30:22 PM] ‪\+NUMBER:‬: What does basic PRs mean?
+- [08/10/19, 2:30:22 PM] ‪\NUMBERNUMBER:‬: What does basic PRs mean?
 - [08/10/19, 2:31:15 PM] Mriyam da: Just chiming in, from the Hacktoberfest site
 
 _To qualify for the official limited edition Hacktoberfest shirt, you must register and then make four pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as invalid or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 50,000 participants who successfully complete the challenge will earn a T-shirt. (Last year 46,088 earned a shirt!)_
 - [08/10/19, 2:31:47 PM] Joinal WA: Consider the PR you'd be submitting in the Repo LearnPR, this just helps you learn git basics and doesn't has any significant code contributions
-- [08/10/19, 2:33:16 PM] ‪\+NUMBER:‬: Thanks for the reply
+- [08/10/19, 2:33:16 PM] ‪\NUMBERNUMBER:‬: Thanks for the reply
 - [08/10/19, 2:34:18 PM] Joinal WA: Hi there,
 Thanks for your interest in Hacktoberfest and helping others learn how to make their first contributions to open source!
 That said, high-quality contributions are part of the the core values of Hacktoberfest, so we kindly ask that you do not create repositories which allow users to quickly gain a PR toward completing the challenge.
@@ -315,13 +315,13 @@ anyway still is a good way to get started.
 Oct 9th
 ---
 
-- [09/10/19, 12:23:40 AM] ‎‪\+NUMBER:‬ joined using this group's invite link
+- [09/10/19, 12:23:40 AM] ‎‪\NUMBERNUMBER:‬ joined using this group's invite link
 - [09/10/19, 7:46:31 PM] Hrishikesh: Hello everyone, hope the contributions are going strong! 💪🏼
 - [09/10/19, 7:46:54 PM] Hrishikesh: We have some exciting accouncement 🎉
 
 We'll be having an AMA(Ask Me Anything) with Ashris Choudhury here in this WhatsApp group. Currently a visiting student at the MIT Media Lab at the Fluid Interfaces Group, Ashris is a creative programmer and is interested in building products that engage and educate people.
 
-One of the his most popular project is *India in Pixels*. He made a YouTube channel out of it which currently has 52k+ subscribers.
+One of the his most popular project is *India in Pixels*. He made a YouTube channel out of it which currently has 52kNUMBERsubscribers.
 
 https://www.youtube.com/channel/UC3vpdI7klzLSLNgqZEESZ4g
 
@@ -334,8 +334,8 @@ Make sure he gets asked a lot of questions, because he's good at answering them 
 *Time for Ashris's AMA:*
 12th October'19
 Time: 9pm-10pm
-- [09/10/19, 7:48:44 PM] ‪\+NUMBER:‬: how to contribute?
-- [09/10/19, 7:48:53 PM] ‪\+NUMBER:‬: and what kind of projects?
+- [09/10/19, 7:48:44 PM] ‪\NUMBERNUMBER:‬: how to contribute?
+- [09/10/19, 7:48:53 PM] ‪\NUMBERNUMBER:‬: and what kind of projects?
 - [09/10/19, 9:11:53 PM] Saurav Twittee: Hi, check out the Group *Description* for getting started!
 - [09/10/19, 9:12:02 PM] Saurav Twittee: 🔥🔥🔥🔥
 
@@ -343,20 +343,20 @@ Time: 9pm-10pm
 Oct 10th
 ---
 
-- [10/10/19, 10:01:53 PM] ‪\+NUMBER:‬: I'm not sure if this is the right platform to ask this question or not, but can anybody please explain or point me to any literature regarding Maximum Entropy Model. I've been searching for hours, watched quite a few videos, but can't understand what exactly this is! Coming from Mechanichal Engineering background, my idea of Entropy is that from Thermal background!
-- [10/10/19, 10:50:02 PM] ‪\+NUMBER:‬: https://youtu.be/uZoURtzcN9M
-- [10/10/19, 10:50:22 PM] ‪\+NUMBER:‬: https://youtu.be/5P58wHbWXBU
+- [10/10/19, 10:01:53 PM] ‪\NUMBERNUMBER:‬: I'm not sure if this is the right platform to ask this question or not, but can anybody please explain or point me to any literature regarding Maximum Entropy Model. I've been searching for hours, watched quite a few videos, but can't understand what exactly this is! Coming from Mechanichal Engineering background, my idea of Entropy is that from Thermal background!
+- [10/10/19, 10:50:02 PM] ‪\NUMBERNUMBER:‬: https://youtu.be/uZoURtzcN9M
+- [10/10/19, 10:50:22 PM] ‪\NUMBERNUMBER:‬: https://youtu.be/5P58wHbWXBU
 - [10/10/19, 10:51:39 PM] Joinal WA: https://docs.scipy.org/doc/scipy-0.7.x/reference/maxentropy.html
 - [10/10/19, 10:51:43 PM] Joinal WA: https://github.com/PythonCharmers/maxentropy
 - [10/10/19, 10:51:54 PM] Joinal WA: https://www.nltk.org/book/ch06.html
 - [10/10/19, 10:52:05 PM] Joinal WA: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.5.123&rep=rep1&type=pdf
-- [10/10/19, 10:52:14 PM] ‪\+NUMBER:‬: You can see these two video here the concept of the method is well explained but for mathematical details you have to refer to some good books
+- [10/10/19, 10:52:14 PM] ‪\NUMBERNUMBER:‬: You can see these two video here the concept of the method is well explained but for mathematical details you have to refer to some good books
 - [10/10/19, 10:52:32 PM] Joinal WA: http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/homepages.inf.ed.ac.uk/s0450736/maxent.html
 - [10/10/19, 10:53:02 PM] Joinal WA: these links would help you getting started with Scipy, and applications of this in CV/NLP etc
-- [10/10/19, 10:56:30 PM] ‪\+NUMBER:‬: I watched his vids, but couldn't make out anything
-- [10/10/19, 10:56:47 PM] ‪\+NUMBER:‬: Cool.  Thanks
-- [10/10/19, 10:57:00 PM] ‪\+NUMBER:‬: Yeah
-- [10/10/19, 10:57:14 PM] ‪\+NUMBER:‬: Thanks Joinal
+- [10/10/19, 10:56:30 PM] ‪\NUMBERNUMBER:‬: I watched his vids, but couldn't make out anything
+- [10/10/19, 10:56:47 PM] ‪\NUMBERNUMBER:‬: Cool.  Thanks
+- [10/10/19, 10:57:00 PM] ‪\NUMBERNUMBER:‬: Yeah
+- [10/10/19, 10:57:14 PM] ‪\NUMBERNUMBER:‬: Thanks Joinal
 
 
 
@@ -366,7 +366,7 @@ Oct 12th
 - [12/10/19, 3:41:45 PM] Hrishikesh: *Reminder*
 
 We'll be having an ama with Ashris at 9PM today.
-- [12/10/19, 4:36:26 PM] ‪\+NUMBER:‬: 🤘
+- [12/10/19, 4:36:26 PM] ‪\NUMBERNUMBER:‬: 🤘
 - [12/10/19, 9:08:24 PM] ‎You added Ashrish Choudhary
 - [12/10/19, 9:09:06 PM] Hrishikesh: Hello everyone,
 
@@ -379,59 +379,59 @@ He'll be doing this ama till 10PM, so ask away your questions and he'll try his 
 - [12/10/19, 9:09:54 PM] Hrishikesh: *Ashris : typo
 - ‎[12/10/19, 9:10:56 PM] Ashrish Choudhary: ‎video omitted
 - [12/10/19, 9:10:57 PM] Ashrish Choudhary: ^ Hey guys! Looking forward to your questions! Thanks Hrishikesh for organizing this.
-- [12/10/19, 9:12:44 PM] ‪\+NUMBER:‬: Hii Ashris Bhaiya thanks for AMA
-- [12/10/19, 9:13:07 PM] ‪\+NUMBER:‬: my question is that How do you choose project? How you select the difficulty of the project?
+- [12/10/19, 9:12:44 PM] ‪\NUMBERNUMBER:‬: Hii Ashris Bhaiya thanks for AMA
+- [12/10/19, 9:13:07 PM] ‪\NUMBERNUMBER:‬: my question is that How do you choose project? How you select the difficulty of the project?
 - [12/10/19, 9:15:54 PM] Ashrish Choudhary: So I have done the Hacktoberfest twice. The best way I think is to look for the Hacktoberfest tag on Github - lot of people tag beginner friendly bugs for you to solve, that could be a good start. You can even work with some college seniors on their projects - usually someone who has worked in Hacktoberfest before is a good idea. Look for something that is in your comfort zone, is beginner friendly and can be done using 10-15 lines of code. Discussing with the repo owner about the complexity of the bug you are trying to fix can be a good start. Wish you all the best!
 - [12/10/19, 9:16:42 PM] Amartya Sk: Hello  Ashris, Thank You for your time. Media Labs must be awesome experience.
 
 I'd like to ask , what are your views on startup teams , Suppose you have a startup and, you're taking in more members ,  like  what qualities do you look in a person who'd want to join your team.
-- [12/10/19, 9:16:43 PM] ‪\+NUMBER:‬: ok thanks🙂
+- [12/10/19, 9:16:43 PM] ‪\NUMBERNUMBER:‬: ok thanks🙂
 - [12/10/19, 9:16:53 PM] Ashrish Choudhary: https://hacktoberfest.digitalocean.com/faq#general <- is a good starting point.
-- [12/10/19, 9:17:40 PM] ‪\+NUMBER:‬: Hi! How to get into PhD in MIT. I'm 34 years old and been in academics all my life, no industrial experience
+- [12/10/19, 9:17:40 PM] ‪\NUMBERNUMBER:‬: Hi! How to get into PhD in MIT. I'm 34 years old and been in academics all my life, no industrial experience
 - [12/10/19, 9:21:11 PM] Ashrish Choudhary: This is such a relevant and a great question. When investors look to find ideas, they look at the team also. Not only should your idea be impactful but you should prove why you are the right people to solve it. At MIT, in one of the entrepreneurship classes, I was told that every good startup needs a combination of 3 kinds of people - the hustler, the hacker and the hipster. Hustlers are the ones who know business, can do sales and marketing. Hackers are your tech wizs and Hipsters are the Design/product wizs who know why to build something. When I try to team with someone, I see which domain do they belong to and how much of self driven projects have they done - because that shows that they are genuinely interested and skilled in what they do.
 - [12/10/19, 9:24:40 PM] Ashrish Choudhary: So I might not be the best person to answer this because I think of myself more of the startup guy than an academic guy, but I think the key to a good PhD is the right mentor who aligns with your goals and is willing to support you. Writing to professors about your interests and experience would be great. Attending conferences in US where you can network with Professors directly is a good option. MIT also has some great tie ups with Indian companies like TATA where they can sponsor PhD students working on topics crucial for developing nations. Reaching out to these institutions would be great.
-- [12/10/19, 9:24:57 PM] ‪\+NUMBER:‬: What would you suggest -mastering one particular domain or jack of all trade?
-- [12/10/19, 9:25:46 PM] ‪\+NUMBER:‬: The last line was valuable for me. I didn't know that. Thanks 😊
+- [12/10/19, 9:24:57 PM] ‪\NUMBERNUMBER:‬: What would you suggest -mastering one particular domain or jack of all trade?
+- [12/10/19, 9:25:46 PM] ‪\NUMBERNUMBER:‬: The last line was valuable for me. I didn't know that. Thanks 😊
 - [12/10/19, 9:26:03 PM] Amartya Sk: Awesome , got it , Hustler - Hacker - Hipster. 
 
 Also , I'd like to know , what is the stage/state of a startup when it starts getting funded ? Like , (1) the idea state (we can do this that wala state), (2) some tid bid research done wala state , (3) prototype ready wala state (4) some revenue generated wala state.
 - [12/10/19, 9:27:03 PM] Hrishikesh: When you were a student, how did you takeout time to start and finish a side projects? It's easy to start something but finishing it is the hard part for me. Or putting this another way, at what point do you think we should stop working on a side project because it's taking too much time. I've only managed to finish only a few but it's just demotivating when I look at the number of dead projects that I have :p
-- [12/10/19, 9:28:05 PM] ‪\+NUMBER:‬: plz answer this. I have the same problem
-- [12/10/19, 9:28:10 PM] ‪\+NUMBER:‬: ..
+- [12/10/19, 9:28:05 PM] ‪\NUMBERNUMBER:‬: plz answer this. I have the same problem
+- [12/10/19, 9:28:10 PM] ‪\NUMBERNUMBER:‬: ..
 - [12/10/19, 9:28:39 PM] Ashrish Choudhary: Definitely master one domain in the long run. Find one domain where you are in the top 5% of the world. Now, the interesting thing is 'domain' is not defined well. I believe we are living in a world where domains are merging to become new domains. Like psychology, neurology and AI combine to form cognitive augmentation. The established domains like physics, maths are all saturated, it is extremely hard to shine there. So for the initial years, like now, try to be a jack of all trades - do many things until you find the right mixture, make it a domain and be great at it. For example, I was good in design and code. Was I an awesome coder? Maybe not. Was I an awesome designer? Maybe not. But when I combined them two and did data viz, I unlocked a field not many are doing and it was easy for me to do things. I recommend this route.
 - [12/10/19, 9:28:56 PM] Amartya Sk: Also , another question , like what would you prefer , the attitude of a startup leader should be - (1) day /night we have to do this anyhow , some team members have some errand to do ,go later  complete now  wala attitude , or (2) or go , do your errand and we can complete this later wala attitude. ?
 - [12/10/19, 9:31:39 PM] Ashrish Choudhary: Make a goal towards which you are working. For me, the goal was getting in to MIT Media Lab, I would think about it while sleeping, while dreaming, while walking. It motivated me to do things. I knew that no matter how many ideas I have, it is only the finished ones that will go to my portfolio. At one time, I was just filling the grid boxes with thumbnails of my incomplete projects that would motivate me to finish them. Once I finished one after a lot of hard work, I was addicted to keep going. So build that momentum, align yourself to some external goal towards which you are working. In my initial years, it was just about impressing my friends with my ideas - find an external drive.
-- [12/10/19, 9:32:14 PM] ‪\+NUMBER:‬: ok I get it . I was a bit of confusion to how should I invest my time . it's clear now.
+- [12/10/19, 9:32:14 PM] ‪\NUMBERNUMBER:‬: ok I get it . I was a bit of confusion to how should I invest my time . it's clear now.
 - [12/10/19, 9:33:46 PM] Ashrish Choudhary: Definitely 4 - someone will pour money on you when you already have set the fire and their money would just help it blaze more and earn more money 💰💰💰. You have to solve a problem of society that society doesn't yet know how to fix. There is no short cut. No prototype or website is going to fake it. You need to find someone willing to pay for your product, only then can you even think of an investor.
 - [12/10/19, 9:38:03 PM] Ashrish Choudhary: Interesting. As a startup founder, you are someone who is creating a new thing in the world. You are like a mother to a baby. Can a mother leave the baby and just chill? No, the baby is too fragile and it will die of negligence. A startup is like that, you have to nurture it continuously. When you have employees, you cannot babysit them, they need to feel part of the product also to give their 200%. So if you are serious about a startup, it should be everything of your life - something you think when you sleep and when you wake up - this is why startups are not for everyone. It is bleed for 5 years so that you dont have to bleed ever again wala mentality.
-- [12/10/19, 9:38:56 PM] ‪\+NUMBER:‬: How to get into MIT media lab like you?
-- [12/10/19, 9:40:57 PM] ‪\+NUMBER:‬: Adding to your answer I would like to ask that how to choose which particular field I should master in by keeping in mind about the scenario of the future market?
+- [12/10/19, 9:38:56 PM] ‪\NUMBERNUMBER:‬: How to get into MIT media lab like you?
+- [12/10/19, 9:40:57 PM] ‪\NUMBERNUMBER:‬: Adding to your answer I would like to ask that how to choose which particular field I should master in by keeping in mind about the scenario of the future market?
 - [12/10/19, 9:40:57 PM] Ashrish Choudhary: Work on crazy projects, have a stellar portfolio, reach out to professors personally and learn new things every day - even if it doesn't guarantee Media Lab, you will easily be ahead of 99% of people your age.
 - [12/10/19, 9:41:37 PM] Hrishikesh: haha awesome! thanks a lot! I've started following a very similar approach. I am not sure if it can be called an external drive but I've made a small list of practical ideas to work on, i keep thinking and brainstorming on them a lot and during my final days at college just prepping myself so that i can work on them later on.
-- [12/10/19, 9:42:27 PM] ‪\+NUMBER:‬: yahh. trying hard matters.
+- [12/10/19, 9:42:27 PM] ‪\NUMBERNUMBER:‬: yahh. trying hard matters.
 - [12/10/19, 9:43:03 PM] Amartya Sk: 💯 onpoint.
 - [12/10/19, 9:44:58 PM] Ashrish Choudhary: Three things - what you love doing, what pays you well and what you are good at. You may love aerospace and it even pays well but if you arent good at it, there is no point. Try to find things that hit all these boxes. Now, what pays you well is a subjective thing, there is no way of being sure but the world is going in a direction, there are some things like AI, creativity, data, service based industries, Electric vehicles and blockchains which are booming - see what connects with you in these emerging fields. Don't stress out too much, as a thumb rule if you can code, you are guaranteed on the pay well aspect - the other two checkboxes are for you to infer.
 - [12/10/19, 9:45:17 PM] Ashrish Choudhary: Sounds awesome! Pretty similar to what I had done too.
-- [12/10/19, 9:46:18 PM] ‪\+NUMBER:‬: Should the projects be something that no one ever tried which is very new.?
-- [12/10/19, 9:47:23 PM] ‪\+NUMBER:‬: Thanks✨
+- [12/10/19, 9:46:18 PM] ‪\NUMBERNUMBER:‬: Should the projects be something that no one ever tried which is very new.?
+- [12/10/19, 9:47:23 PM] ‪\NUMBERNUMBER:‬: Thanks✨
 - [12/10/19, 9:47:34 PM] Amartya Sk: What does it take to make it to an Ivy league Masters or Maybe CSAIL Masters  , like is it Research Work done  of similar kind to the projects ongoing at CSAIL , or is it something different (like entire portfolio) , how far GRE marks/ institute name holds strong to admission process.
 - [12/10/19, 9:48:45 PM] Ashrish Choudhary: Yes and no - Media Lab values interdisciplinary approach to building things. You can take two normal but unrelated skills and fuse them together to make something new. You don't have to reinvent the wheel, just find new ways existing things can be paired. Be really good at one thing - electronics, code or fabrication and show how you can use them like artists use colors, poets use poetry to create magic.
 - [12/10/19, 9:50:03 PM] Ashrish Choudhary: Depends on the uni but yes, your institute, your GPA, your GRE, Letters of recommendation from machau people, SOP and yes, connections - all of these things. Having stellar internships also helps.
-- [12/10/19, 9:53:20 PM] ‪\+NUMBER:‬: How much time we should devote to do projects or  learning in one field may be it is data science or block chain? When to move to other field?
+- [12/10/19, 9:53:20 PM] ‪\NUMBERNUMBER:‬: How much time we should devote to do projects or  learning in one field may be it is data science or block chain? When to move to other field?
 - [12/10/19, 9:54:14 PM] Ashrish Choudhary: Personally, I think Masters have become very devalued. We live in a world where knowledge is freely flowing. There is no 'knowledge' that is specially stored in these degrees - it is the connections and the stamp of a good university people go to these colleges for. I didn't think the ego boost is worth so much money. But if you have dispensible money and you want to do Masters for exploring new culture, pursue something very special, are evry sure that you want to work in a certain country or you know that the alumnus network is strong for you to go where you want in life, then go ahead. But doing masters from a fancy place just because society thinks its cool is a very very bad and an expensive idea.
 - [12/10/19, 9:56:52 PM] Ashrish Choudhary: You cannot learn or even master a field while you are in college. People have been working on these for decades, you surely cant master these in a year. So I'd advise the best investment of your time in college should be to learn how to learn. Realize you will never master a thing fully but you can learn the basics so well that it helps you even when you are doing something unrelated. It is not the same as jack of all trades - it is knowing the basics of many fields very strongly so that you can use them if you have to.
 - [12/10/19, 9:57:55 PM] Arunav GIMT: If you are doing your project in data science is it necessary to publish paper in reputed publications???
 - [12/10/19, 9:58:52 PM] Hrishikesh: When looking at it generally, how much of a difference do you think college(high ed) makes in a Student's life?
 
 Do you think graduating from a not so good college(or should I say where the education is bad) pre 2015 vs graduating from that same college today in 2019 is different because we have so much of great learning materials on the Internet today that college should not matter at all?
-- [12/10/19, 9:59:05 PM] ‪\+NUMBER:‬: ok . After all its important to master the basics of all.
+- [12/10/19, 9:59:05 PM] ‪\NUMBERNUMBER:‬: ok . After all its important to master the basics of all.
 - [12/10/19, 10:00:49 PM] Ashrish Choudhary: Ugh, I personally haven't read more than 10 papers in my life. I find them very boring. It isn't the medium that is important but your work. I honestly just write Medium articles, it has helped my work reach to more people. I find the academic paper wala language to be very terse and unnescessarily complex. It is one of the reasons I did not pursue academia ahead. If you are sure that academia is your thing, then yes, writing papers and getting them published is very important, but if you are doing a startup or are applying for jobs, its not important enough. Reading papers will definitely help you sharpen your mind, but not necessarily writing for publications.
 - [12/10/19, 10:00:53 PM] Hrishikesh: *Note:* AMA ends in ~5 mins 
 
 PS: fastest hour I've experienced in 2019
-- [12/10/19, 10:01:30 PM] ‎‪\+NUMBER:‬ left
-- [12/10/19, 10:01:44 PM] ‪\+NUMBER:‬: yap
-- [12/10/19, 10:02:30 PM] Saurav Twittee: Hi @NUMBER  
+- [12/10/19, 10:01:30 PM] ‎‪\NUMBERNUMBER:‬ left
+- [12/10/19, 10:01:44 PM] ‪\NUMBERNUMBER:‬: yap
+- [12/10/19, 10:02:30 PM] Saurav Twittee: Hi @NUMBERNUMBER  
 Sourav here 
 
 What are your views on opensource in AI?
@@ -440,29 +440,29 @@ Can you give some inputs and trends about it!
 Also if you share any cool project you have worked on and YouTube channel link!!
 - [12/10/19, 10:03:07 PM] Ashrish Choudhary: I love this question. Yes, the world has changed sooooo much! It matters so little where you studied if you are in the startup world, maybe except for impressing few snobby VCs. YouTube, Coursera, all of those have shattered the walls academia had created. There is no reason to cite your college as an excuse. If you are smart, ambitious and hard working,(and are blessed to be born in a stable family in a stable country - which I hope you all are) this is the best time to be alive.
 - [12/10/19, 10:03:08 PM] Arunav GIMT: thanks a lot
-- [12/10/19, 10:03:48 PM] Ashrish Choudhary: @NUMBER I totally don't mind spending more time if people have more questions :)
-- [12/10/19, 10:04:37 PM] ‪\+NUMBER:‬: You have helped us so much with your positivity and motivation. Thanks 😊
-- [12/10/19, 10:05:47 PM] ‪\+NUMBER:‬: Thanks for all the help
+- [12/10/19, 10:03:48 PM] Ashrish Choudhary: @NUMBERNUMBER I totally don't mind spending more time if people have more questions :)
+- [12/10/19, 10:04:37 PM] ‪\NUMBERNUMBER:‬: You have helped us so much with your positivity and motivation. Thanks 😊
+- [12/10/19, 10:05:47 PM] ‪\NUMBERNUMBER:‬: Thanks for all the help
 - [12/10/19, 10:07:09 PM] Ashrish Choudhary: Hey Sourav! Open Source is responsible for probably 80% of the innovation happening today in the world. OpenAI, the initiative by Elon Musk is sharing so much of quality resources. Side note, all of you should be on Twitter and follow these guys - ElonMusk, Open AI, Andrej Karpathy, etc etc - you will get so much of cutting edge research work right in your feed. You can have a look at my projects at https://iashris.com - I think the Facebook network visualization (it has a video on YouTube) is probably the coolest one, followed by https://13x29.github.io
-- [12/10/19, 10:07:57 PM] Ashrish Choudhary: Yo guys! I had so much fun doing this, feel free to reach out to me at hello@iashris.com
+- [12/10/19, 10:07:57 PM] Ashrish Choudhary: Yo guys! I had so much fun doing this, feel free to reach out to me at hello@NUMBERiashris.com
 - [12/10/19, 10:08:10 PM] Ashrish Choudhary: I'd be happy to answer few more questions if you still have them
 - [12/10/19, 10:08:16 PM] Hrishikesh: sure, let's extend this 10more minutes if we don't get another question we can end it then. :)
 
 it's been so great having you here today!
 - [12/10/19, 10:09:23 PM] Ashrish Choudhary: Likewise, I think all of the folks in this group are incredibly fortunate to have their mentor take initiatives like this. Keep learning, keep exploring and keep evolving, yo!
-- [12/10/19, 10:09:46 PM] ‪\+NUMBER:‬: How to get into top IT companies ?  some people say competitive programming help a lot, some says having interesting project helps. What would you say??
-- [12/10/19, 10:13:13 PM] Hrishikesh: *Note*: we'll publish a blogpost in a day or two with the questions and answers from this AMA so that people who missed it can read it later. is that fine by you @NUMBER?
+- [12/10/19, 10:09:46 PM] ‪\NUMBERNUMBER:‬: How to get into top IT companies ?  some people say competitive programming help a lot, some says having interesting project helps. What would you say??
+- [12/10/19, 10:13:13 PM] Hrishikesh: *Note*: we'll publish a blogpost in a day or two with the questions and answers from this AMA so that people who missed it can read it later. is that fine by you @NUMBERNUMBER?
 - [12/10/19, 10:13:42 PM] Ashrish Choudhary: Well, each company has its own way of picking people. Once you are being interviewed, it is your acumen that matters there. The tough part is to get an interview after being shortlisted through the series of automated tests. Some hacks help like having the keywords in your resume that companies are looking for. But nothing beats just being plain good in your skills. Some sure shot things that work is to be more visible - go present your work in conferences, take up GSoC, participate in the Facebook bug bountry programs, start helping startups in their open source projects - if you do all this, may be not the top4 [facebook, google, apple, amazon] come to you, but many IT companies will line up for you to join them.
 - [12/10/19, 10:14:01 PM] Ashrish Choudhary: Of course! Do go ahead.
-- [12/10/19, 10:15:51 PM] ‪\+NUMBER:‬: thanks a lot
-- [12/10/19, 10:18:02 PM] Ashrish Choudhary: Pleasure's all mine! Guys, it was great doing this! I wish you all the very best ~~ Use code to do good and I'll say the 100th time - keep learning, there is no end! Thanks for having me @NUMBER
-- [12/10/19, 10:18:11 PM] Hrishikesh: great! and I think we're not getting any more questions. this ama session was super informative! Thank you @NUMBER so much for joining us today once again, I am sure everyone would appreciate this. Let's mark this the end of the AMA.
-- [12/10/19, 10:18:45 PM] Amartya Sk: Thank You so much for your time @NUMBER .
+- [12/10/19, 10:15:51 PM] ‪\NUMBERNUMBER:‬: thanks a lot
+- [12/10/19, 10:18:02 PM] Ashrish Choudhary: Pleasure's all mine! Guys, it was great doing this! I wish you all the very best ~~ Use code to do good and I'll say the 100th time - keep learning, there is no end! Thanks for having me @NUMBERNUMBER
+- [12/10/19, 10:18:11 PM] Hrishikesh: great! and I think we're not getting any more questions. this ama session was super informative! Thank you @NUMBERNUMBER so much for joining us today once again, I am sure everyone would appreciate this. Let's mark this the end of the AMA.
+- [12/10/19, 10:18:45 PM] Amartya Sk: Thank You so much for your time @NUMBERNUMBER .
 - [12/10/19, 10:18:55 PM] Ashrish Choudhary: ✌
-- [12/10/19, 10:19:13 PM] ‪\+NUMBER:‬: thanks @NUMBER for your time . Hope to get some more interaction in future
-- [12/10/19, 10:19:39 PM] ‪\+NUMBER:‬: Thanks ashris. I'm a last year BTech student pursuing a career in data science and the interdisciplinary thing to find new scopes was eye opening.
-- [12/10/19, 10:19:50 PM] Saurav Twittee: Thanks a lot @NUMBER
-- [12/10/19, 10:20:20 PM] ‪\+NUMBER:‬: I have a few questions which I'll ask through the link you provided. Hope to catch your replies there!
+- [12/10/19, 10:19:13 PM] ‪\NUMBERNUMBER:‬: thanks @NUMBERNUMBER for your time . Hope to get some more interaction in future
+- [12/10/19, 10:19:39 PM] ‪\NUMBERNUMBER:‬: Thanks ashris. I'm a last year BTech student pursuing a career in data science and the interdisciplinary thing to find new scopes was eye opening.
+- [12/10/19, 10:19:50 PM] Saurav Twittee: Thanks a lot @NUMBERNUMBER
+- [12/10/19, 10:20:20 PM] ‪\NUMBERNUMBER:‬: I have a few questions which I'll ask through the link you provided. Hope to catch your replies there!
 - [12/10/19, 10:22:03 PM] Ashrish Choudhary: Sure thing! Anyone else is also welcome to shoot me an email.
 - [12/10/19, 10:22:06 PM] Ashrish Choudhary: See you all!
 - [12/10/19, 10:22:21 PM] ‎Ashrish Choudhary left
@@ -472,21 +472,21 @@ Oct 16th
 ---
 
 - [16/10/19, 3:09:00 PM] Hrishikesh: Do share the event with your friends and whoever you think will be interested in joining. It's open for all.
-- [16/10/19, 4:20:52 PM] ‎‪\+NUMBER:‬ joined using this group's invite link
+- [16/10/19, 4:20:52 PM] ‎‪\NUMBERNUMBER:‬ joined using this group's invite link
 - [16/10/19, 11:53:11 PM] Joinal WA: Do a' nano mkdir'
 - [16/10/19, 11:53:25 PM] Joinal WA: Or maybe if you're on windows open that with notepad
 - [16/10/19, 11:53:59 PM] Joinal WA: CD command is use for changing directory not for manipulating files 🙂
-- [16/10/19, 11:55:01 PM] ‪\+NUMBER:‬: What is the command for windows?
-- [16/10/19, 11:55:10 PM] ‪\+NUMBER:‬: https://typora.io/ best md editor
-- [16/10/19, 11:55:12 PM] ‪\+NUMBER:‬: cd is for changing directory, just make a username.md file as directed I assume
-- [16/10/19, 11:55:30 PM] ‪\+NUMBER:‬: Username here is your name
-- [16/10/19, 11:55:55 PM] ‪\+NUMBER:‬: Indeed!
+- [16/10/19, 11:55:01 PM] ‪\NUMBERNUMBER:‬: What is the command for windows?
+- [16/10/19, 11:55:10 PM] ‪\NUMBERNUMBER:‬: https://typora.io/ best md editor
+- [16/10/19, 11:55:12 PM] ‪\NUMBERNUMBER:‬: cd is for changing directory, just make a username.md file as directed I assume
+- [16/10/19, 11:55:30 PM] ‪\NUMBERNUMBER:‬: Username here is your name
+- [16/10/19, 11:55:55 PM] ‪\NUMBERNUMBER:‬: Indeed!
 - [16/10/19, 11:56:10 PM] Joinal WA: Since this is basic, no need of a fancy .md editor
 - [16/10/19, 11:56:39 PM] Joinal WA: Sorry nano with your filename
-- [16/10/19, 11:56:40 PM] ‪\+NUMBER:‬: Ya, you can use a simple notepad or any text editors
+- [16/10/19, 11:56:40 PM] ‪\NUMBERNUMBER:‬: Ya, you can use a simple notepad or any text editors
 - [16/10/19, 11:57:17 PM] Joinal WA: https://superuser.com/questions/186857/how-do-i-edit-text-files-in-the-windows-command-prompt
-- [16/10/19, 11:57:37 PM] ‪\+NUMBER:‬: Ok thank you bhaiyya
-- [16/10/19, 11:57:43 PM] ‪\+NUMBER:‬: Thanks
+- [16/10/19, 11:57:37 PM] ‪\NUMBERNUMBER:‬: Ok thank you bhaiyya
+- [16/10/19, 11:57:43 PM] ‪\NUMBERNUMBER:‬: Thanks
 - [16/10/19, 11:59:09 PM] Amartya Sk: Install git bash in windows
 - [16/10/19, 11:59:14 PM] Amartya Sk: Everything will be fine.
 
@@ -494,5 +494,544 @@ Oct 16th
 Oct 17th
 ---
 
-- [17/10/19, 12:00:15 AM] ‪\+NUMBER:‬: Git bash🤔..ok I am getting into that
+- [17/10/19, 12:00:15 AM] ‪\NUMBERNUMBER:‬: Git bash🤔..ok I am getting into that
 - [17/10/19, 12:00:24 AM] Bhargav Hazarika: Or wsl
+
+
+- [18/10/19, 12:47:53 AM] ‪NUMBER‬: completed the LearnPR task(add name)..what do i do next..how to find a repository to contribute to that would be counted as a PR?
+- [18/10/19, 12:48:18 AM] ‪NUMBER‬: how do i go about the next step..any guide lines or readme files?
+- [18/10/19, 2:12:26 AM] Mriyam da: https://hacktoberfest.digitalocean.com/details
+
+Please check the Beginners section
+- [18/10/19, 9:48:54 AM] ‎Eshita Nandy joined using this group's invite link
+- [18/10/19, 11:28:22 AM] Joinal WA: Anyone here into React?
+- [18/10/19, 11:28:39 AM] Joinal WA: Or has done some work on DS?
+- [18/10/19, 11:29:06 AM] ‪NUMBER‬: Yeah
+- [18/10/19, 11:29:31 AM] ‪NUMBER‬: Any repo to work on based on that?
+- [18/10/19, 11:29:36 AM] Joinal WA: Yes
+- [18/10/19, 11:29:40 AM] Joinal WA: I have a repo
+- [18/10/19, 11:29:47 AM] Joinal WA: And need contributions
+- [18/10/19, 11:29:52 AM] ‪NUMBER‬: I can
+- [18/10/19, 11:30:14 AM] ‪NUMBER‬: Repo link?
+- [18/10/19, 11:30:50 AM] Joinal WA: Open source forkable end-to-end AI pipeline using a mobile app - give it a shot!
+
+We built a complete end-to-end computer vision demo for iOS and Android.  It will take you from data ingestion to model-training and back to API deployment. You can fork the entire pipeline, attach datasets, add or change models, get creative!
+
+iOS and Android Mobile App source code: https://github.com/onepanelio/demo-app
+
+You can find the computer vision source code NUMBERannotation workspace NUMBERmodel experimentation workspaces NUMBERdistributed jobs NUMBERAPIs NUMBERinternet scraping NodeRED flows here: https://c.onepanel.io/onepanel-demo/projects/mobile-demo/overview
+- [18/10/19, 11:32:03 AM] Joinal WA: Who ever is interested to work on this
+- [18/10/19, 11:32:15 AM] Joinal WA: Talk to me before starring to work
+- [18/10/19, 11:32:36 AM] Joinal WA: Will identify good issues based on that person's capability
+- [18/10/19, 11:32:40 AM] Joinal WA: And assign
+- [18/10/19, 11:44:57 AM] Joinal WA: this could be a good issue to work on : https://github.com/onepanelio/demo-app/issues/3
+- [18/10/19, 11:47:38 AM] ‪NUMBER‬: Anyone working on GIS here?
+- [18/10/19, 11:48:38 AM] ‎‪NUMBER‬ joined using this group's invite link
+- [18/10/19, 11:48:59 AM] Joinal WA: also for the folks who want to do basic contributions, @NUMBER has a repo on optimization algorithms, consider adding more algorithms
+- [18/10/19, 11:49:45 AM] ‪NUMBER‬: Thanks
+- [18/10/19, 11:49:46 AM] ‪NUMBER‬: Can you share the link?
+- [18/10/19, 11:49:48 AM] ‪NUMBER‬: 😊
+- [18/10/19, 11:50:14 AM] Joinal WA: https://github.com/Soumyabrata111/Optimization-Techniques
+- [18/10/19, 11:50:19 AM] ‪NUMBER‬: Thanks
+- [18/10/19, 11:50:30 AM] Joinal WA: contribute to this
+- [18/10/19, 11:50:39 AM] Joinal WA: he mainly does in MATLAB
+- [18/10/19, 11:50:45 AM] ‪NUMBER‬: Anyone is invited to have a PR
+- [18/10/19, 11:50:53 AM] Joinal WA: porting them to python is a good issue to work on
+- [18/10/19, 11:50:55 AM] ‪NUMBER‬: Other languages are also welcome
+- [18/10/19, 11:51:09 AM] ‪NUMBER‬: As well as Julia NUMBERdocumentation
+- [18/10/19, 11:51:38 AM] ‪NUMBER‬: Anyone using GIS?
+- [18/10/19, 11:51:39 AM] Joinal WA: @NUMBER can you do the documentation better for the Repo?
+- [18/10/19, 11:51:53 AM] Joinal WA: as in, what can be contributed
+- [18/10/19, 11:52:01 AM] ‪NUMBER‬: Shall do
+- [18/10/19, 11:52:02 AM] Joinal WA: say, 1. ADD new algorithms
+- [18/10/19, 11:52:05 AM] Joinal WA: etc etc
+- [18/10/19, 11:52:28 AM] ‪NUMBER‬: How to add the hactoberfest level to the report?
+- [18/10/19, 11:52:33 AM] ‪NUMBER‬: *repo?
+- [18/10/19, 11:55:17 AM] ‪NUMBER‬: Any standard for description for PR?@NUMBER
+- [18/10/19, 11:55:52 AM] ‪NUMBER‬: I didn't get you 🤔
+- [18/10/19, 11:57:11 AM] ‪NUMBER‬: Like should the PR follow any specific naming or description rules
+- [18/10/19, 11:57:46 AM] ‪NUMBER‬: I have a class now, shall comeback & chat then 😊
+- [18/10/19, 11:58:06 AM] ‪NUMBER‬: Sure
+- [18/10/19, 11:58:19 AM] ‪NUMBER‬: @NUMBER you want to add label to an issue ?
+- [18/10/19, 11:59:10 AM] Joinal WA: To the repo
+- [18/10/19, 11:59:24 AM] Joinal WA: Should be in settings of the repo
+- [18/10/19, 2:16:42 PM] Hrishikesh: If anyone here is studying in cotton university can you please DM me. need some information.
+- [18/10/19, 2:18:44 PM] ‪NUMBER‬: How to do that?
+- [18/10/19, 2:22:57 PM] Hrishikesh: You'll need to create issues in your repository, issues can be like:
+1. Add xyz algorithm implementation for abc problem 
+2. Improve the docs for xyz
+3. Fix the bug that's causing xyz
+
+once you create an issue, you'll be able to add a label to it clicking on the sidebar to the right
+- [18/10/19, 2:24:51 PM] ‪NUMBER‬: Check this https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests
+- [18/10/19, 2:26:27 PM] Hrishikesh: people can then look at the issue, understand the problem then send prs for the same. 
+
+you can add the label "Hacktoberfest", "good-first-issue", "beginner-friendly" etc if you feel like but it's not necessary.
+- [18/10/19, 2:29:35 PM] Hrishikesh: good way to get some drive by contributors. the learnPR repository that we made for this group is getting prs from people who don't even know that this repository is part of Hacktoberfest Guwahati.
+
+They are simply contributing because of the Hacktoberfest label.
+- [18/10/19, 9:09:27 PM] Bhargav Hazarika: https://youtu.be/vVRCJ52g5m4
+- [18/10/19, 9:10:22 PM] ‪NUMBER‬: any1 here knows assembly language?
+- [18/10/19, 9:10:25 PM] ‪NUMBER‬: can provide some tips..........?
+- [18/10/19, 9:11:17 PM] Bhargav Hazarika: Just some basics 😌
+- [18/10/19, 9:12:23 PM] ‪NUMBER‬: Crackme?🤤
+- [18/10/19, 9:12:50 PM] ‪NUMBER‬: I learning assembly from udemy. U can try that one. Hopefully it might help
+- [18/10/19, 9:13:58 PM] ‪NUMBER‬: I know that i play the challenge as i get time
+- [18/10/19, 9:14:17 PM] ‪NUMBER‬: I can read assembly but cant able to build anything
+- [18/10/19, 9:15:38 PM] ‪NUMBER‬: Anyway u can play with Arduino or raspberry pi. As most of this stuff use in embedded engineering only. And this low level programming are use case by case
+- [18/10/19, 9:18:45 PM] ‪NUMBER‬: Actually I need help with that too! I have to make a ELF bin for a CTF comp.
+- [18/10/19, 9:19:18 PM] ‪NUMBER‬: What type of ctf u want to make
+- [18/10/19, 9:20:10 PM] ‪NUMBER‬: a very simple crackme for beginners. multiplateform supported
+- [18/10/19, 9:20:38 PM] ‪NUMBER‬: I have some few if u need then dm
+- [18/10/19, 9:21:15 PM] ‪NUMBER‬: Did u play pico CTF 2019 ???
+- [18/10/19, 9:25:06 PM] ‪NUMBER‬: The one who do not have laptop can also join the tomorrow's session
+- [18/10/19, 9:26:50 PM] ‪NUMBER‬: well solved few of 'em...to be honest it's for the absolute beginners :)...who asks what is 49 in bin in a ctf comp
+- [18/10/19, 9:30:07 PM] ‎‪NUMBER‬ joined using this group's invite link
+- [18/10/19, 9:30:24 PM] Hrishikesh: You can join in, there is no restrictions as such but you won't be able to actively participate in the hands on sessions because you need a laptop for that.
+- [18/10/19, 9:30:44 PM] ‎‪NUMBER‬ left
+- [18/10/19, 9:32:26 PM] ‪NUMBER‬: Registration is still open ???
+- [18/10/19, 9:32:38 PM] Hrishikesh: yep
+- [18/10/19, 9:33:29 PM] ‪NUMBER‬: I have done it just now, will i get any confirmation for the same ???
+- [18/10/19, 9:35:07 PM] Hrishikesh: no we're not sending out any confirmation mail. in google forms we trust. 😛 this is a low volume event so don't worry.
+- [18/10/19, 9:35:30 PM] ‪NUMBER‬: great 👍
+- [18/10/19, 9:35:33 PM] Abhinab: 👍
+- [18/10/19, 9:35:38 PM] ‪NUMBER‬: i have done some web challenge and RE
+- [18/10/19, 9:46:51 PM] ‪NUMBER‬: I've already completed Hacktoberfest. Will it be worth attending ?
+- [18/10/19, 10:10:10 PM] Mriyam da: I believe yes. Hacktoberfest is just a means to an end, that is, to increase awareness of open source and encourage/incentivize beginners to contribute.
+
+Regardless of where you are in your open source journey, you can attend. If you're at a beginner level, you might learn something. If you're at an advanced level, maybe you can share some knowledge and help others learn something.
+- [18/10/19, 10:11:23 PM] Abhinab: 👌
+- [18/10/19, 10:12:33 PM] Abhinab: We've been waiting for such meetups in our city since years ..
+- [18/10/19, 10:12:45 PM] Abhinab: Especially hacktober fest
+- [18/10/19, 10:16:00 PM] ‎‪NUMBER‬ joined using this group's invite link
+- [18/10/19, 10:21:50 PM] ‪NUMBER‬: What is the registration fee for the event?
+- [18/10/19, 10:25:50 PM] ‪NUMBER‬: 🥔 Badami Alu
+- ‎[18/10/19, 10:30:23 PM] Hrishikesh: ‎image omitted
+- [18/10/19, 10:30:42 PM] ‪NUMBER‬: Interesting🤔
+- [18/10/19, 10:33:31 PM] ‪NUMBER‬: Yes it is 🥔
+- ‎[18/10/19, 10:33:56 PM] ‪NUMBER‬: ‎image omitted
+- [18/10/19, 10:34:00 PM] ‪NUMBER‬: 😄😄😄😄
+- [18/10/19, 10:34:22 PM] Joinal WA: 🤣🤣
+- [18/10/19, 10:34:24 PM] ‪NUMBER‬: Nice one 😄
+- [18/10/19, 10:34:36 PM] ‪NUMBER‬: I can't stop laughing
+- [18/10/19, 10:36:26 PM] ‪NUMBER‬: 🤣
+- [18/10/19, 10:41:26 PM] Mriyam da: Hello people, please take irrelevant talk outside this group.
+- [18/10/19, 10:44:35 PM] ‪NUMBER‬: This was a relevant humour 😊
+- [19/10/19, 1:14:51 PM] Bhargav Hazarika: Photo plz 😌
+- ‎[19/10/19, 1:46:10 PM] Amartya Sk: ‎image omitted
+- [19/10/19, 2:03:01 PM] Saurav Twittee: 🔥🔥
+- [19/10/19, 2:30:20 PM] Joinal WA: Please refrain from sending such posts here
+- [19/10/19, 2:31:51 PM] ‪NUMBER‬: Ok fine. I ask organisers. Its yes from them so i have posted. Its legitimate job opening yeah i know the platform is wrong for advertising.
+- [19/10/19, 2:47:10 PM] ‪NUMBER‬: Is there any Facebook developer circle present in Guwahati?
+- [19/10/19, 2:56:37 PM] Hrishikesh: resuming in 5mins
+- [19/10/19, 2:58:07 PM] Bhargav Hazarika: Are u guys Recording?
+- [19/10/19, 2:58:45 PM] Hrishikesh: nope 😓
+- [19/10/19, 3:53:48 PM] ‎‪NUMBER‬ joined using this group's invite link
+- ‎[19/10/19, 4:44:26 PM] Mriyam da: ‎image omitted
+- [19/10/19, 4:44:27 PM] Mriyam da: Someone left their charger.
+- [19/10/19, 4:44:42 PM] Mriyam da: @NUMBER has the charger. Please call him.
+- [19/10/19, 5:22:26 PM] ‪NUMBER‬: Can we get the slides?
+- [19/10/19, 5:38:36 PM] Mriyam da: Will share by EOD
+- [19/10/19, 5:38:40 PM] Mriyam da: *end of day
+- [19/10/19, 5:38:53 PM] ‪NUMBER‬: Thanks
+- [19/10/19, 5:39:32 PM] ‪NUMBER‬: awesome event. 🤟🤟
+- [19/10/19, 5:40:13 PM] Dhruman Das: Truely it was...
+- [19/10/19, 5:40:26 PM] Dhruman Das: 🔥🔥🔥💥💥💥💥🔥🔥🔥
+- [19/10/19, 5:40:40 PM] ‪NUMBER‬: It was a good experience. Hoping for another one.
+- [19/10/19, 5:40:45 PM] ‪NUMBER‬: Learned a lot.
+- [19/10/19, 5:41:23 PM] Dhruman Das: I will be waiting for the next one
+- [19/10/19, 5:57:28 PM] Abhinab: An awesome event.. kudos to the organisers  👏🏼👏🏼
+- [19/10/19, 5:58:27 PM] ‪NUMBER‬: It was a really nice experience 😁.
+- [19/10/19, 6:00:50 PM] ‪NUMBER‬: Me too😁
+- [19/10/19, 6:01:26 PM] Mriyam da: Hope y'all have more questions in the next one.
+- [19/10/19, 6:03:22 PM] Mriyam da: . Good links
+- [19/10/19, 6:21:30 PM] Dhruman Das: Sure
+- [19/10/19, 8:18:31 PM] ‪NUMBER‬: Is there any Facebook developer circle present in Guwahati?
+- [19/10/19, 8:19:45 PM] Anoop Royal: I don't think so.
+
+I had a contact with the Developers of Facebook two months back.
+
+If it's not there we can create.
+- [19/10/19, 8:22:54 PM] ‪NUMBER‬: Do you still hv contact wd him?
+- [19/10/19, 8:26:15 PM] ‪NUMBER‬: Everyone can join irc(internet relay chat) . Its pretty amazing where u can meet many great developers. There are many great channels like django, flask, python or any other subjects.
+
+Users can join servers like freenode or dainet. To use this servers u neet an chat tool like mirc. 
+
+Its an great place to have discussion and getting and solving problems and ideas
+- [19/10/19, 8:34:42 PM] ‪NUMBER‬: There is FCC Guwahati, but it's hardly active!
+- [19/10/19, 8:50:16 PM] ‪NUMBER‬: Oh okay
+- [19/10/19, 8:50:40 PM] ‪NUMBER‬: And GDG Guwahati? And alos DSC?
+- [19/10/19, 8:50:52 PM] ‪NUMBER‬: Nopes
+- [19/10/19, 8:59:43 PM] Eshita Nandy: GDG Guwahati is there
+- ‎[19/10/19, 9:01:29 PM] ‪NUMBER‬: ‎image omitted
+- [19/10/19, 9:01:30 PM] ‪NUMBER‬: How and where do I make the changes(adding some code)
+- [19/10/19, 9:02:58 PM] ‪NUMBER‬: I am confused..and no  around to help
+- [19/10/19, 9:07:44 PM] Anubhav: Hi, can you be a bit more elaborate?
+- [19/10/19, 9:07:55 PM] Anubhav: Yes you will. 😃 @NUMBER
+- [19/10/19, 9:11:38 PM] ‪NUMBER‬: Did you upload the updated code in your account?
+- [19/10/19, 9:13:43 PM] ‪NUMBER‬: I forked and cloned the repo..created a branch
+- [19/10/19, 9:14:43 PM] ‪NUMBER‬: Then followed the following steps
+- [19/10/19, 9:14:52 PM] ‪NUMBER‬: Is there?
+- ‎[19/10/19, 9:15:10 PM] ‪NUMBER‬: ‎image omitted
+- [19/10/19, 9:15:41 PM] ‪NUMBER‬: Then went back to my accnt and created a pull request
+- [19/10/19, 9:16:38 PM] ‪NUMBER‬: I am clueless after that
+- [19/10/19, 9:16:43 PM] ‪NUMBER‬: I don't know how to do it from git command line. I do it directly😶😅
+- ‎[19/10/19, 9:17:45 PM] ‪NUMBER‬: ‎image omitted
+- ‎[19/10/19, 9:18:16 PM] ‪NUMBER‬: ‎image omitted
+- [19/10/19, 9:18:22 PM] ‪NUMBER‬: And where do I add my codes🤔🤔
+- [19/10/19, 9:18:33 PM] ‪NUMBER‬: Learner here*
+- [19/10/19, 9:20:27 PM] ‪NUMBER‬: This is happening because your codes are still the same(i guess)(that means its still not updated). Check once that the changes that you have made are reflected or not.
+- [19/10/19, 9:22:18 PM] ‪NUMBER‬: I haven't made any changes...I want to know..where do I actually make the change(rather add something)
+- [19/10/19, 9:24:35 PM] ‪NUMBER‬: The repository asks for contributing some questions for heaps in python data structures..so I want to add a few questions and algos(and not change something)
+- [19/10/19, 9:25:01 PM] ‪NUMBER‬: Changes as in you can make the codes better or add a new feature to it. After making some changes you need to update it in your forked repository. Than when you create a New pull request you will be able to make it(since you have modified the code to a better version).
+- [19/10/19, 9:25:06 PM] ‪NUMBER‬: Okk
+- [19/10/19, 9:25:26 PM] ‪NUMBER‬: Can you tell me the repository name?
+- [19/10/19, 9:25:50 PM] ‪NUMBER‬: Wait one sec
+- [19/10/19, 9:26:51 PM] ‪NUMBER‬: You can either these in the issue.... Or check where to add the questions.
+- [19/10/19, 9:28:41 PM] ‪NUMBER‬: https://github.com/prabhupant/python-ds
+- [19/10/19, 9:29:24 PM] ‪NUMBER‬: Thank you
+- [19/10/19, 9:30:01 PM] Kabir: Since, you have already forked and cloned it.
+
+Create a new branch with
+
+- branch <name>
+
+Add the .py files or the content related to the algos you want to add in the appropriate directories.
+
+Then add and commit these using
+
+-git add .
+-git commit -m "some msg"
+
+Then push these changes to the branch you just created using 
+
+- git push -u origin <branch_name>
+
+Once thats done, go back to the pull requests section.
+
+Now you can compare the master and the new branch you create
+
+Submit the pull request.
+
+And that should be it
+- [19/10/19, 9:30:27 PM] Mriyam da: Steps to ask for help
+
+0. *Explain what you want to do* instead of what you tried and failed to do. (Read: https://meta.stackexchange.com/a/66378)
+1. Use the screenshot feature of your laptop, share screenshot directly on Whatsapp(use Whatsapp web on laptop) *OR* use screenshot sharing service - https://prnt.sc/, https://snipboard.io/
+2. Apart from screenshot, sharing the code itself helps, using services like https://gist.github.com, http://sprunge.us/, https://paste.debian.net/
+3. In case the problem you are having concerns code already on the internet, on platforms like GitHub, GitLab, simply share the link(of the repository, branch of specific line of code).
+
+Following these steps will allow people helping you to understand the issue quicker and *you will get a solution sooner*.
+- [19/10/19, 9:30:33 PM] Anubhav: somebody is alive
+- [19/10/19, 9:32:49 PM] ‪NUMBER‬: Okk it seems..after creating the branch name I didn't add any files rather jumped to the commands git add. 
+- 🤔🤔..let me try again..ang thanks a lot
+- [19/10/19, 9:36:00 PM] Kabir: ‎This message was deleted.
+- [19/10/19, 9:36:13 PM] Kabir: No issues 👍🏻
+- [19/10/19, 9:36:43 PM] Kabir: Absolutely alive
+- [19/10/19, 9:37:45 PM] Anubhav: ‎This message was deleted.
+- ‎[19/10/19, 10:47:16 PM] ‪NUMBER‬: ‎image omitted
+- [19/10/19, 10:52:00 PM] Kabir: Kudos 👍🏻
+- [20/10/19, 1:02:39 AM] ‎‪NUMBER‬ joined using this group's invite link
+- [20/10/19, 1:25:18 AM] ‪NUMBER‬: One doubt...if we submit more than 4 PR's and any one of them is rejected ,then do we become ineligible for the merchandise or something?
+- [20/10/19, 1:25:30 AM] ‪NUMBER‬: I have 4 PRs uptill now...and I want to contribute more
+- [20/10/19, 1:25:51 AM] ‪NUMBER‬: I fear if anyone of the 4PR gets rejected
+- [20/10/19, 1:26:14 AM] ‪NUMBER‬: And since also I found this thing fascinating
+- [20/10/19, 1:26:24 AM] ‪NUMBER‬: I want do some more PRs
+- [20/10/19, 2:12:14 AM] Hrishikesh: no worries, they have systems to count subsequent pr and it doesn't overlap so not an issue. 
+
+if one pr among the first pr is rejected then it'll pick one up from the subsequent prs for the 4th one. 
+
+not an issue, about the swags, the site mentions that the first 50k ppl will get it or something similar. so if you're among the first 50k you should get the mail about it by end of oct or after.
+- [20/10/19, 2:12:56 AM] ‪NUMBER‬: Ok thanks!
+- [20/10/19, 3:09:45 PM] ‎‪NUMBER‬ joined using this group's invite link
+- [20/10/19, 11:36:51 PM] Joinal WA: Follow us : https://instagram.com/tensorflowindia?igshid=11j9ydlc18k30
+- [20/10/19, 11:44:36 PM] ‪NUMBER‬: https://twitter.com/Hacker0x01/status/1185262417736945665?s=08
+- [20/10/19, 11:45:17 PM] ‪NUMBER‬: website updated? about slides and other links
+- [20/10/19, 11:55:20 PM] Mriyam da: CC: @NUMBER
+- [20/10/19, 11:56:01 PM] Hrishikesh: yes the link was updated
+- [20/10/19, 11:57:41 PM] Hrishikesh: https://etherpad.net/p/hf-ghy-19
+- [21/10/19, 12:11:05 AM] ‪NUMBER‬: thank you !
+- [21/10/19, 5:03:21 PM] Anubhav: hey folks, sorry for the delay, here are some of the photos of the fest. :) 
+
+https://photos.app.goo.gl/eFt3mbtVyM8S1zJv7
+- [21/10/19, 5:43:43 PM] ‪NUMBER‬: These pics are great😁
+- [21/10/19, 5:48:37 PM] Anoop Royal: Thank you !!
+- ‎[21/10/19, 5:56:15 PM] Dhruman Das: ‎image omitted
+- ‎[21/10/19, 5:56:16 PM] Dhruman Das: ‎image omitted
+- ‎[21/10/19, 5:56:17 PM] Dhruman Das: ‎image omitted
+- ‎[21/10/19, 5:56:18 PM] Dhruman Das: ‎image omitted
+- [22/10/19, 12:13:54 AM] ‪NUMBER‬: Epic
+You can ask him about community building, leadership, communications, and his work with growing a tensorflow community here.
+
+You can learn more about his work here: 
+https://www.linkedin.com/in/ialimustufa
+
+See you during the ama :)
+- [22/10/19, 8:09:56 PM] Hrishikesh: So we're starting our second AMA with Ali Mustufa tonight. 😁
+
+Welcome Ali, let's start off this with you introducing yourself briefly, so that the participants get a better idea of you  :)
+- [22/10/19, 8:10:01 PM] Hrishikesh: @NUMBER
+- [22/10/19, 8:10:07 PM] Ali : ‎This message was deleted.
+- [22/10/19, 8:13:15 PM] Ali : Hello!
+
+I am Ali and I am the organizer of Tensorflow India Community.
+I am also part of many community's organizing groups and like to interact with engineering students at large.
+I speak a Lot :p (delivered 100NUMBERsessions across 32 cities in India)
+
+more about me iali.dev
+- [22/10/19, 8:15:52 PM] Anoop Royal: Hello,
+Where do you see tensorflow reaching within 2-3 years down the line? 
+
+#implementation
+- [22/10/19, 8:16:43 PM] ‪NUMBER‬: Hi mr.Ali? What are the best ways for one to learn tensorflow in India?
+- [22/10/19, 8:19:47 PM] Ali : With the realise of  TesnorFlow 2.0 it's make a lot of sense that Google is investing heavily and this time keeping community centric.
+
+Also earlier the Usergroup's were not supported by Google now they have starred supporting them.
+
+It has a list of features and realises planned. You can follow the GitHub for latest updates or be the part of TesnroFlow Google Group(open for all) to see the latest developments.
+- [22/10/19, 8:20:21 PM] Anoop Royal: Thank you. 😇
+- [22/10/19, 8:20:23 PM] ‎‪NUMBER‬ left
+- [22/10/19, 8:20:47 PM] Anubhav: Hi, I was wondering if you could shed some light on how do you go about introducing Tensorflow to people who have programming knowledge but have little to no prior information on Machine Learning? Do you have a hackathon based approach, where the focus is on learning by doing/completing projects? Or is it more on the theoretical knowledge at first? 
+
+I am assuming the aforementioned participants here do have some form of mathematical knowledge in regards to basic statistics and the ilk.
+- [22/10/19, 8:20:56 PM] Eshita Nandy: Hello
+What are the future aspects of tensor flow in today's market?
+- [22/10/19, 8:21:53 PM] Ali : There are pretty good materials online. 
+
+I highly recommend a series of 6 Codelabs available on Google Codelabs I'll share the URL here itself in sometime.
+
+Also documentation of TF 2.0 is very easy to understand and one can start from it.
+
+After Tensorflow.world more new resources would be available
+- [22/10/19, 8:23:21 PM] Ali : For production basis most of the companies Prefer Tensorflow and for research basis most of them use Pytourch.
+
+If you are looking as a Developer it's worth taking the effort to master it.
+- [22/10/19, 8:26:02 PM] ‪NUMBER‬: Do you see tensorflow becoming an Industry standard soon? What steps are being taken to encourage widespread adoption of tensorflow?
+- [22/10/19, 8:26:34 PM] Ali : LAB 1: https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/#0
+LAB 2: https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/
+LAB 3: https://codelabs.developers.google.com/codelabs/tensorflow-lab3-convolutions/
+LAB 4: https://codelabs.developers.google.com/codelabs/tensorflow-lab4-cnns/
+LAB 5: https://codelabs.developers.google.com/codelabs/tensorflow-lab5-compleximages/
+LAB 6: https://codelabs.developers.google.com/codelabs/tensorflow-lab6-largecnns/
+- [22/10/19, 8:30:44 PM] Ali : Yes,
+
+If you see the current scenario it's more driving to Community first and it's quite visible with TF 2.0 realise
+
+They have invested heavily in Tensorflow low-level API for research as well that allows you to build onto internals of TesnroFlow without having to rebuild it
+- [22/10/19, 8:31:31 PM] Ali : The first step is Tensorflow.world
+
+As you can will see it's a major conference happening just around TF
+- [22/10/19, 8:31:49 PM] Ali : Also you might have seen TF Roadshows happening around the Globe
+- [22/10/19, 8:33:06 PM] Ali : JavaScript, Swift for Tensorflow is also a NUMBER
+- [22/10/19, 8:36:02 PM] ‪NUMBER‬: Hi ali,
+
+Do you have any plans for guwahati to conduct tensorflow. If you are conducting kindly let us know
+- [22/10/19, 8:36:43 PM] ‪NUMBER‬: We had one just few days back
+- [22/10/19, 8:36:58 PM] Ali : Recently there was a event TesnroFlow All Around happened in Guwahati.
+Join us (t.me/TesnroFlowindia)
+- [22/10/19, 8:37:30 PM] Ali : *url
+t.me/tensorflowindia
+- [22/10/19, 8:39:09 PM] Ali : I plan to visit all chapters in-person 🙌 by mid 2020
+
+We have 13 active chapters across the County
+- [22/10/19, 8:39:21 PM] ‎‪NUMBER‬ joined using this group's invite link
+- [22/10/19, 8:40:26 PM] ‪NUMBER‬: Welcome
+- [22/10/19, 8:42:06 PM] ‪NUMBER‬: Thanks for sharing telegram. It nice platform to have around tensorflow.
+- [22/10/19, 8:42:57 PM] Ali : Thanks for joining!
+
+I share a link Everyday where you can learn something everyday!
+- [22/10/19, 8:43:05 PM] ‪NUMBER‬: Cool
+- [22/10/19, 8:43:08 PM] Mriyam da: Hey Ali, thanks for having the AMA.
+
+I would also love to hear your take on this question.
+- [22/10/19, 8:44:06 PM] Ali : Oops I missed this one
+- [22/10/19, 8:47:26 PM] Ali : I have Trained a lot of students and being a student I feel we get bored out in Theory's.
+
+The approach I follow is very practical approach with a little Important Theory parts. (Very essential for interviews)
+
+By making things they to do mistakes and then when you figure a way to solve the error you learn a lot.
+
+End-To-End projects are very Important.
+- [22/10/19, 8:48:07 PM] Ali : I have tried the Hackathon based approach if you keep the audience small works like charm
+- [22/10/19, 8:48:36 PM] Saurav Twittee: Hi Ali! Welcome to Hacktoberfest GHY 
+
+1. Can you please share few resources of TF Lite for flutter?
+
+2. What do you think like why one should use the tf over pytorch?
+
+3. What are your pro tips for the developers who want to become a speaker?
+
+ Also, you may share with us any awesome TF project you have worked on!!
+- [22/10/19, 8:49:31 PM] Ali : Maths always comes later.
+
+Is it important ? Yes very much.
+
+But messing with it earlier makes people go away from ML itself
+- [22/10/19, 8:56:07 PM] Ali : 1. I haven't worked on flutter at large but for Tensorflow for lite there are good resource's available online one of my favourite is Tensorflow for poet's lab.
+
+2. I don't give priority to TF over Pytourch or vice-versa both have many advantages and disadvantages. Pytourch is good for research based work but when I say taking your app to Market TesnroFlow is the king there.
+
+3. Better speaker's means better practise. I am good now just because I have done so many talks. Dev's are mostly nerds and Talks needs Engagement so practice with small audience then gradually increase it.
+
+Yeah I have awesome projects on TF but I haven't put them up in GitHub I show them live 
+
+(As I am still writing Papers for them)
+- [22/10/19, 8:56:42 PM] Ali : *Tensorflow
+- [22/10/19, 9:00:05 PM] Saurav Twittee: Awesome! Thanks for answering 😃
+- [22/10/19, 9:01:23 PM] Anubhav: AH! Thank you so much! 😀 This helps me a lot. I do have a followup question, do you aim to complete a basic project with every session like this? Since you stated that you place higher priority on End-to-End projects? Is this to show the entire process of the development cycle to beginners? And if so, how do you keep it from overwhelming the participants?
+- [22/10/19, 9:02:18 PM] Ali : TensorFlow for Software Developers
+https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
+- [22/10/19, 9:02:49 PM] Saurav Twittee: This one is awesome!
+- [22/10/19, 9:02:51 PM] Anubhav: Also, atrocious punctuation here. Sorry for that. I don't know why I put in question marks after everything.
+- [22/10/19, 9:06:35 PM] Ali : Yes they should know with what they are getting theirs dirty! 
+
+As they would be suprised in the near future to see the whole process and then blame the trainer as he/she showed a half picture(usually 20-30% is covered in such training and majorly focused on training/building the model).
+
+Yeah there can be an exception when you have an audience for a specific topics or usecase
+- [22/10/19, 9:07:18 PM] Ali : Yes it's is 🙌😇
+- [22/10/19, 9:07:46 PM] Ali : Pardon me for my auto correct/ spelling mistakes
+- [22/10/19, 9:07:55 PM] Anubhav: Amazing! Thank you so much! I have no further questions. 😀
+- [22/10/19, 9:08:09 PM] Ali : You're welcome 😇
+- [22/10/19, 9:11:54 PM] Saurav Twittee: What's the best way to connect with you! please share any social links of yours! :)
+- [22/10/19, 9:12:20 PM] Joinal WA: @NUMBER thanks for joining in such a short notice
+- [22/10/19, 9:12:39 PM] Hrishikesh: ama gets over in 10mins. please ask any questions if you have. 😁 
+will conclude today's ama after that. sounds right @NUMBER?
+- [22/10/19, 9:13:01 PM] Joinal WA: Can you share some thoughts on the current light on the current community scene
+- [22/10/19, 9:13:21 PM] Joinal WA: And what else can we do to make things more enriching and interesting for beginners
+- [22/10/19, 9:13:34 PM] Saurav Twittee: NUMBER
+- [22/10/19, 9:13:46 PM] Anoop Royal: 🔖How much time an individual should spend to get a good hold on Tensor flow and be able to write articles?
+- [22/10/19, 9:15:10 PM] Ali : I post about my upcoming events here (you can follow to receive updates): g.page/ialimustufa
+
+LinkedIn: https://linkedin.com/in/ialimustufa/
+Instagram: https://instagram.com/ialimustufa/
+Twitter: https://twitter.com/ialimustufa
+fb: fb.me/iali.dev
+Website: iali.dev
+- [22/10/19, 9:15:29 PM] Joinal WA: Also, I've got to know you're into crowdsource initiative also
+- [22/10/19, 9:15:43 PM] Ali : My pleasure 😇
+- [22/10/19, 9:16:19 PM] Joinal WA: Share some light on what is it and if it helps in solving the data problem
+- [22/10/19, 9:17:20 PM] Ali : Community is growing and now we also have support coming in from the Google Team.
+
+We will be conducting events/Hackathon and many more activities for beginners!
+- [22/10/19, 9:19:06 PM] ‎‪NUMBER‬ left
+- [22/10/19, 9:19:37 PM] Ali : Always encourage them.
+
+Don't just redirect everyone to Andrew's course! Understand what they want to do then suggest them resource's.
+
+Make sure you find the right one and if you can't find a GDE for ML who could help.
+- [22/10/19, 9:20:12 PM] Ali : If you can't find, A GDE (Google Developer Expert)
+- [22/10/19, 9:21:04 PM] Joinal WA: That i personally never do
+- [22/10/19, 9:22:03 PM] Joinal WA: Agreed,  we had Dipanjan,  a GDE for ML at the Tf all around event
+- [22/10/19, 9:22:30 PM] Joinal WA: We're also working on to get more GDEs getting introduced to the community here
+- [22/10/19, 9:23:01 PM] Ali : Not you :p
+But I have seen it as a trend.
+I find people doing it all the time😅
+- [22/10/19, 9:23:45 PM] Joinal WA: True
+- [22/10/19, 9:24:22 PM] Ali : Amazing!
+
+Btw community!
+@NUMBER is Also one of the Organizer's and is shaping the community in his region 🙌😇
+
+Kudos to you!
+- [22/10/19, 9:24:54 PM] Ali : Yes!
+- [22/10/19, 9:25:17 PM] Joinal WA: Not me alone ,we have @NUMBER @NUMBER @NUMBER
+- [22/10/19, 9:26:11 PM] Joinal WA: Without these guys, i can't imagine managing it remotely
+- [22/10/19, 9:26:30 PM] Hrishikesh: thanks @NUMBER for getting this ama up with @NUMBER today. ✨ super insightful answers coming from experiences 😁😁
+- [22/10/19, 9:27:59 PM] Joinal WA: I've seen people tangled with mathematics on starters, and leave the main course 🍕
+- [22/10/19, 9:28:28 PM] Ali : Yeah! 
+
+With my network in India we were able to lay base for Crowdsource community in India.
+
+Have you used Google Assistant in native language? How much improved it is as compared to a year back?
+
+We have crowdsourced the data for them.
+
+Also the project InclusiveImages where my better half MD. Nawaz presented paper at NIPS(now Neural IPS) on how we collected ~5 million labelled images within 30 days
+- [22/10/19, 9:29:00 PM] Joinal WA: Awesome
+- [22/10/19, 9:30:09 PM] Hrishikesh: when you talk about community cowdsourcing is it related to fundraising?
+- [22/10/19, 9:30:21 PM] Ali : I am no longer part of the Google Crowdsource Team but countinue to do Crowdsource 
+
+I'll be speaking at TesnorFlow.world on how We remove Bias in Machine Learning using Crowdsource in Santa Clara on Oct 29th
+- [22/10/19, 9:30:34 PM] Joinal WA: In one of the recent conversations with Manish Manish Gupta,  director of Google Research India, he emphasized on the community,  how it helps on getting the hard work look very easy, it's us the community who shape the big products in longer run
+- [22/10/19, 9:31:56 PM] Joinal WA: Also, @NUMBER , I've seen people use latest tech, when something can be done with basic things
+- [22/10/19, 9:32:09 PM] Ali : https://www.youtube.com/watch?v=wwZKOmoNxMo
+
+Might help you understand it (feel free to skip first 5 mins after that main talk starts )
+- [22/10/19, 9:32:21 PM] ‎‪NUMBER‬ joined using this group's invite link
+- [22/10/19, 9:32:26 PM] Joinal WA: Like, we don't need DL and CNNs everywhere,  but prople use it, because it's fancy
+- [22/10/19, 9:32:51 PM] Joinal WA: How do we tackle this situation,  and encourage to use simpler things
+- [22/10/19, 9:32:52 PM] Ali : Yes, it's we people always.
+- [22/10/19, 9:33:45 PM] Joinal WA: *people
+- [22/10/19, 9:35:50 PM] Hrishikesh: 10/10 will look into it
+- [22/10/19, 9:37:00 PM] Ali : They were taught that way, still, when I goto institutes I get to hear this a lot (Gan's | Deepfakes | Quantum computing in ML) it's good in research perspective but in the end, they don't even end up writing a paper.
+
+My rec: Teach them how things work well with minimal models, minimal tech! and let them choose their way
+- [22/10/19, 9:37:39 PM] Joinal WA: Agreed
+- [22/10/19, 9:38:44 PM] Ali : Thanks for having me ! It was a great conversation 😇🙌
+- [22/10/19, 9:39:21 PM] Joinal WA: Thanks @NUMBER again
+- [22/10/19, 9:39:29 PM] Ali : Hope to connect with you'll ! 🙌
+
+Have a good Night 😇
+- [22/10/19, 9:39:33 PM] Joinal WA: We'll compile this as a blog, ans share to you
+- [22/10/19, 9:39:40 PM] Joinal WA: And
+- [22/10/19, 9:39:59 PM] Ali : Aah amazing! Do rectify my typos 😆
+- [22/10/19, 9:40:27 PM] Joinal WA: Sure thing👍🏻
+- [22/10/19, 9:41:15 PM] ‪NUMBER‬: Thank you
+- [22/10/19, 9:41:16 PM] Eshita Nandy: Thank you for spending such an amazing time with us which really helped us a lot.
+- [22/10/19, 9:42:30 PM] Saurav Twittee: Thanks for an awesome ama :)
+- [22/10/19, 9:45:51 PM] ‎‪NUMBER‬ joined using this group's invite link
+- [23/10/19, 8:46:40 AM] ‎‪NUMBER‬ joined using this group's invite link
+- [23/10/19, 10:30:16 AM] ‎‪NUMBER‬ joined using this group's invite link
+- [23/10/19, 7:54:17 PM] Hrishikesh: *quick heads up*
+
+we'll be having our 2nd meetup on 26th Oct at GUIST, Guwahati (coming Saturday). Will be posting more info on it very soon.
+- [23/10/19, 7:55:35 PM] ‪NUMBER‬: Time???
+- [23/10/19, 8:00:30 PM] ‪NUMBER‬: Cool. That will a great fun 😀
+- [23/10/19, 8:01:50 PM] ‪NUMBER‬: I missed the 1st meetup.... But I'll definitely join this one
+- [23/10/19, 8:03:11 PM] ‪NUMBER‬: What usually happens in the meetup? I missed the first one too.
+- [23/10/19, 8:05:09 PM] ‪NUMBER‬: What will be the topic of discussion?...I missed the first one
+- [23/10/19, 8:05:22 PM] Hrishikesh: yeah! and ^answering them in the one answer in some time.
+- [23/10/19, 8:09:49 PM] Mriyam da: Off topic
+
+But if anyone is aware of and interested in contributing to Kubernetes check this out.
+ http://bit.ly/k8s-infra-onboarding
+- ‎[23/10/19, 8:10:02 PM] Mriyam da: ‎image omitted
+- [23/10/19, 8:20:35 PM] ‪NUMBER‬: Hi mriyam,
+
+I have gone through provided link. But it leas twitter tweet. Is there any website or slack channel where we can register and going through kubernets source code and start contributing. Not from like forking and contributing.
+
+Kindly share some light, if possible?
+- [23/10/19, 8:21:10 PM] Hrishikesh: join the #k8s-infra-wg in their slack^
+- [23/10/19, 8:22:42 PM] ‪NUMBER‬: #k8-infra-wg is the slack team name. Am i correct. Hrishikesh. If so then thanks for sharing
+- [23/10/19, 8:24:45 PM] Hrishikesh: #k8-infra-wg yes this is where the onboarding discussion is happening, but if you want to get into k8s development more generally, all of the components have different SIGs https://github.com/kubernetes/community/blob/master/sig-list.md
+
+whichever is of your interest, you can join and start contributing. they're super helpful and friendly!
+- [23/10/19, 8:25:43 PM] ‪NUMBER‬: Thanks hrishikesh for sharing..
+- [23/10/19, 8:27:09 PM] Mriyam da: https://slack.k8s.io/
+
+Here is the slack self  invite link for Kubernetes
+- [23/10/19, 8:31:35 PM] Mriyam da: Almost everything regarding can be found on their official site itself including docs for code and other documentation.
+
+https://kubernetes.io/docs/contribute/start/
+- [23/10/19, 9:26:00 PM] Joinal WA: ******Contribution Needed *******
+- [23/10/19, 9:26:36 PM] ‪NUMBER‬: Hey guys.. I need a serious *HELP*.. 
+
+I have an android app  uploaded in playstore.. I developed the app in *WINDOWS*.. now I'm using *MAC*, and i want to publish the updated version from the *macbook*.. 
+
+HOW Do I do that? How to generate a release apk from the mac?? *KINDLY HELP ME WITH PROPER GUIDE*...
+
+ _*I'M STUCK..*_
+- [23/10/19, 9:27:06 PM] Hrishikesh: please don't spam the group by sending the same message again.
+- [23/10/19, 9:28:13 PM] ‪NUMBER‬: I asked that question without 1 new member joined lastly.. so after we have a new member in grp, i dltd the previous and asked that again..
+- [23/10/19, 9:28:32 PM] ‎‪NUMBER‬ joined using this group's invite link
+- [23/10/19, 9:28:51 PM] Joinal WA: Foss Assam, uses this repo to generate certificates for all its events,https://github.com/joinalahmed/pycertmaker
+- [23/10/19, 9:28:52 PM] ‎‪NUMBER‬ joined using this group's invite link
+- [23/10/19, 9:29:21 PM] Joinal WA: this has a security issue : https://github.com/joinalahmed/pycertmaker/network/alert/requirements.txt/Pillow/open
+- [23/10/19, 9:29:27 PM] Joinal WA: anyone wants to work on this?
+- [23/10/19, 9:38:59 PM] Hrishikesh: This time around, we are reaching out to Volunteers aswell. If you think you can help others get started with Opensource please consider being a volunteer instead for the event on 26th. :)
+you can simply ping any of the admins of this group if you want to volunteer and be there in the venue on 26th.
+- [23/10/19, 9:39:45 PM] Hrishikesh: link is 404
+- [23/10/19, 9:40:02 PM] ‎‪NUMBER‬ joined using this group's invite link
+- [23/10/19, 9:42:22 PM] Hrishikesh: this question is way out of the scope of this group. I think you have a better chance of getting this answered if you post this to stackoverflow/relevant reddit forums or any other forum that you think will be more suitable.
+- [23/10/19, 9:44:07 PM] ‪NUMBER‬: What problem are you facing? Can you elaborate
+- [23/10/19, 9:44:40 PM] Mriyam da: Please take this to DM if you want to help
