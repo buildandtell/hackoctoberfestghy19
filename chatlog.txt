@@ -1054,3 +1054,530 @@ you can simply ping any of the admins of this group if you want to volunteer and
 - [23/10/19, 9:42:22 PM] Hrishikesh: this question is way out of the scope of this group. I think you have a better chance of getting this answered if you post this to stackoverflow/relevant reddit forums or any other forum that you think will be more suitable.
 - [23/10/19, 9:44:07 PM] ‪NUMBER‬: What problem are you facing? Can you elaborate
 - [23/10/19, 9:44:40 PM] Mriyam da: Please take this to DM if you want to help
+
+Oct 26th
+---
+- 10/26/19, 7:44 AM - Hrishikesh: Hello everyone, Good morning!
+
+Just a quick reminder, we'll be having our second and final meetup for October at GUIST starting at ~9AM.
+
+Hope to see you there. :)
+- 10/26/19, 8:31 AM - NUMBER 100: 👍🏻
+- 10/26/19, 9:47 AM - Hrishikesh: Starting in 10 minutes.
+- 10/26/19, 10:30 AM - NUMBER: Today?
+- 10/26/19, 10:31 AM - Guyaec: yes
+- 10/26/19, 1:19 PM - Amartya Sk: <Media omitted>
+- 10/26/19, 5:05 PM - Hrishikesh: Thanks everyone for joining in today. Here are few photographs of today.
+
+https://photos.app.goo.gl/RKpSMpZPYyPfxXZi7
+- 10/26/19, 5:15 PM - Hrishikesh: *AMA Alert*
+
+We're having another AMA tonight at 9PM-10PM by Srijan Agarwal.
+
+Srijan recently switched to a product/grown role from a developer role. He keeps track of the latest hiring trends and is interested in talking about Indian Startups. 
+
+You can ask him about hiring, marking connections, open source eco system, what things most developers usually miss about product growth etc. 
+
+You can see more of his work at: 
+
+https://www.linkedin.com/in/srijancse
+
+
+AMA time: 9PM-10PM
+Date: 26th October
+- 10/26/19, 5:15 PM - Joinal: 🤟🏻
+- 10/26/19, 5:17 PM - Amartya Sk: Awesome 🥂
+- 10/26/19, 5:21 PM - Anubhav: oooo
+- 10/26/19, 5:21 PM - Anubhav: Srijan
+- 10/26/19, 5:21 PM - Anubhav: NICEE
+- 10/26/19, 6:13 PM - NUMBER 100: Thanks for the pics
+- 10/26/19, 6:13 PM - Saurav Das: Awesome 🔥🔥
+- 10/26/19, 6:22 PM - NUMBER joined using this group's invite link
+- 10/26/19, 7:39 PM - Mriyam Da: https://twitter.com/geekodour/status/1188060420684169216?s=17
+- 10/26/19, 7:43 PM - Mriyam Da: https://twitter.com/mbtamuli/status/1188095108425502728?s=17
+- 10/26/19, 7:48 PM - Mriyam Da: <Media omitted>
+- 10/26/19, 7:49 PM - Mriyam Da: Nobody could have said it better. Thanks @NUMBER
+- 10/26/19, 7:49 PM - Guyaec: 🤘🏼 Always in for the one liner puch 🤣
+- 10/26/19, 7:50 PM - Mriyam Da: If even a few of the participants get motivated and take some time to contribute, it'll have made all the organizers, volunteers and speakers' efforts a success.🔥🤞🏼
+- 10/26/19, 7:50 PM - NUMBER: We'll definitely get started😊
+- 10/26/19, 7:51 PM - Mriyam Da: Also, it's not just about this hacktoberfest. If you keep learning from now, you can get into next GSoC or Hacktoberfest.
+
+_Stay Hungry. Stay Foolish_😎
+- 10/26/19, 7:52 PM - NUMBER: Ok, sure👍😁
+- 10/26/19, 7:58 PM - Hrishikesh: <Media omitted>
+- 10/26/19, 7:59 PM - Hrishikesh: Those who used git and GitHub for the first time today. This will be a great quick reference! 🤸
+- 10/26/19, 8:00 PM - Guyaec: For those who use it daily and still forget the commands, it's great for them too.
+- 10/26/19, 8:01 PM - NUMBER: 🤟🏻
+- 10/26/19, 8:04 PM - Mriyam Da: https://guides.github.com/activities/hello-world/
+- 10/26/19, 8:04 PM - Mriyam Da: https://guides.github.com/introduction/flow/
+- 10/26/19, 8:04 PM - Mriyam Da: https://www.youtube.com/user/GitHubGuides
+- 10/26/19, 8:59 PM - You added Srijan
+- 10/26/19, 9:01 PM - Hrishikesh: Hello everyone, we have Srijan Agarwal for the 3rd AMA in this month. 
+
+I already introduced @NUMBER to the group, would still ask him to quickly introduce himself to the group. :)
+
+He's available for the AMA from 9PM-10PM
+- 10/26/19, 9:07 PM - Srijan: Hey guys,
+
+Thanks Hrishi for inviting me :)
+
+I'm Srijan and I currently lead recruiting for Clarisights - an enterprise SaaS startup building a next-gen workspace for performance marketing teams. I'm a computer science grad and have been always interested in the product and growth side of things. I started out with contributing to open source projects, spoke at a few conferences which also helped me in building relationships with people around the world. Last year, I interned with Swapcard, Paris as a Growth Engineer! 
+
+Feel free to ask any questions and I'd be happy to help with whatever (little) knowledge I've :D
+- 10/26/19, 9:08 PM - Amartya Sk: Hello Srijan , Thank You for your time. I have a question  , like if you are taking in a new team member for a fairly new startup , what are the qualities you would look in her/him?
+- 10/26/19, 9:09 PM - NUMBER: Hi! I have a silly question for you. I'm okay with python, but apart from that, which other programming language would you suggest for numerical computation? C, Java?
+- 10/26/19, 9:14 PM - Srijan: Hey Amartya,
+
+It totally depends. If by qualities you mean, technical qualities and is applying for an intern/new grad position - I generally look for -
+1. Open Source contributions
+2. Previous intern experience or relevant projects.
+- 10/26/19, 9:17 PM - Srijan: Hey Soumyabrata,
+
+I don't think I'm the right person to answer this question or have the relevant background in numerical computation. I myself have been a polyglot programmer. Given a problem statement, I tend to first understand it and then go for the simplest and fastest way to solve it. It may not be the right/scalable approach but works most of the time.
+- 10/26/19, 9:18 PM - NUMBER: Cool
+- 10/26/19, 9:18 PM - NUMBER: Hello,
+
+I'm bit confused whether I should first go for learning progamming languages or acquiring knowledge on open source.
+Can you give me any suggestion on this?
+- 10/26/19, 9:20 PM - Srijan: Hey Bishal,
+
+I'd suggest you to first understand the basics of any programming language. Understanding of a programming language is not just knowing the syntax or how recursion works. If you already know that, great! You are past the first hurdle. Next, you need to take up the task of learning the multiple major libraries and packages that are going to be used in any medium to large scale projects. Look up the relevant libraries of your programming language and devote time to learning them. A good understanding of these will go a long way in helping you understand any code base better.
+
+I also wrote a blogpost on this - https://www.srijanagarwal.me/2016/06/contribute-to-open-source
+- 10/26/19, 9:23 PM - NUMBER: Thank you
+- 10/26/19, 9:24 PM - NUMBER: Hello srijan, I have been contributing to some open source organisations recently, and the projects that I worked on were basically small or new, which made it easy for me to contribute. My question to you is how should we go about contributing in projects that are already established and have huge number of people already contributing, eg debian, LibreOffice etc?
+- 10/26/19, 9:26 PM - Hrishikesh: Hello Srijan, what is your ideal outline suggestion on getting a product (open source or not) from once built to sharing it with people and having more people use it. 
+
+Just posting a side project on ProductHunt helps but does not always get to you a useful feedback to improve your product.
+
+When it comes to marketing a product, all i know is posting it on product hunt, tweeting about it and posting it on reddit. 
+
+This surely gets some eyes on it. What are some other ways to get some eyes?
+- 10/26/19, 9:27 PM - Srijan: Hey Anking,
+
+That's absolutely great to hear. Now since you understand the basics, I'd suggest you to start digging deeper orgs which do some hardcore cs work like operating systems, databases, even programming languages. Some of the orgs which come to my mind are Apache, CNCF, Debian, KDE, Ruby, Python, PostgreSQL, MariaDB (if you're into DBs)!
+- 10/26/19, 9:27 PM - Srijan: This message was deleted
+- 10/26/19, 9:31 PM - NUMBER: Thanks ! I have another question. As a recruiter which student would you give more preference- a student with a GSoC in 1 open-source project or a non-GSoc student with huge contributions in multiple organisations?
+- 10/26/19, 9:36 PM - Srijan: Hey Anking,
+
+It totally depends. Usually open source contributions are a metric to evaluate the quality of code. So GSoC doesn't really matter! For eg. I'd still prefer someone who has contributed to core cs organizations! :)
+- 10/26/19, 9:36 PM - Hrishikesh: Putting this another way, what is a good way to get feedbacks on ideas and validate if it's something worth working on (in case the developer is expecting it to be used by other people) and not working on the project just as a side project.
+- 10/26/19, 9:39 PM - NUMBER: Okay! Thanks for answering 😊
+- 10/26/19, 9:39 PM - Kabir: This intrigues me too. Would appreciate to get your opinion
+- 10/26/19, 9:43 PM - Srijan: Finding your go-to audience and niche is very important. Your initial users and their feedback define your product. What I'd suggest before working on the idea, is to define the persona of your user and then ask them questions which would help you explain the “why” behind product decisions, find the needs of the users, you can then prioritize features that solve actual user problems and eventually mplement new functionality in line with how users would actually use it.
+- 10/26/19, 9:45 PM - NUMBER: Hello Srijan,
+
+Referring to the answer you have given;
+
+
+Proposal of new algorithm with efficient complexities in this area, will it help?
+How can we contribute more to CS org and how to get deep with these courses?
+10/26/19, 9:56 PM - Hrishikesh: 📝📝
+
+*note:* Concluding AMA in 10 minutes.
+- 10/26/19, 9:57 PM - NUMBER: ?
+- 10/26/19, 10:13 PM - Srijan: Hey Anoop, 
+
+Yes that should surely help. Although, the best way to propose that would be by first understanding how the org really works, how the architecture of the software is and that could happen by starting fixing smaller bugs :) 
+
+To go deeper, I’d again suggest to start with something small, and then pick up a bigger task slowly eventually leading you to go deeper. 
+
+I also prefer to read a book to dive deeper on a certain topic on the side too!
+- 10/26/19, 10:15 PM - Srijan: If you’ve any more questions, please free to DM me on Twitter(@NUMBERsrijancse) or LinkedIn!
+- 10/26/19, 10:15 PM - NUMBER: Thank you 😊
+- 10/26/19, 10:23 PM - Hrishikesh: Adding to Srijan's answer, 
+
+I found these two links very useful when trying to have technical overview of different open source projects. [2] is somewhat outdated in the software development years, but still is relevant.
+
+[1] http://aosabook.org/en/index.html
+[2] https://legacy.gitbook.com/@NUMBERdelftswa
+- 10/26/19, 10:24 PM - NUMBER: Great Man !! 👍
+- 10/26/19, 10:25 PM - Hrishikesh: okay! concluding with Srijan's AMA for today then. Hope everyone learnt something new today. :) 
+
+Thank you @NUMBER for joining us here today, it's been great!
+- 10/26/19, 10:27 PM - Amartya Sk: Thank You Srijan
+- 10/26/19, 10:27 PM - NUMBER: Thanks to all for the awesome sessions
+- 10/26/19, 10:27 PM - NUMBER: Hope this could go on, i really loved it all.
+- 10/26/19, 10:28 PM - Guyaec: That was a great resource, thanx 🤘🏼
+- 10/26/19, 10:28 PM - NUMBER: Huge respect for all of the instructors. Love to all
+- 10/26/19, 10:29 PM - Srijan: Thanks guys! Please feel free to reach out if you need any help! :)
+- 10/26/19, 10:30 PM - Srijan left
+- 10/26/19, 10:44 PM - NUMBER 774: Thank you!
+
+Oct 27th
+---
+
+- 10/27/19, 12:55 AM - NUMBER: HAPPY DIWALI FOLKS
+- 10/27/19, 3:13 AM - NUMBER joined using this group's invite link
+- 10/27/19, 6:43 AM - NUMBER: <Media omitted>
+- 10/27/19, 7:58 AM - NUMBER: Congratulations
+- 10/27/19, 9:08 AM - Hrishikesh: Congratulations! 🥳🥳
+- 10/27/19, 9:10 AM - NUMBER: Congratulations bro. 👏👏
+- 10/27/19, 10:34 AM - Joinal: Awesome mate
+- 10/27/19, 12:43 PM - NUMBER joined using this group's invite link
+- 10/27/19, 12:01 PM - Saurav Das: Awesome! Congrats
+- 10/27/19, 12:11 PM - NUMBER: Thanks all
+
+Oct 30th
+---
+- 10/30/19, 9:28 PM - NUMBER: “One stop guide to Google Summer of Code” by Harshit Dwivedi https://link.medium.com/JzpGBAzHc1
+
+Oct 31st
+---
+
+- 10/31/19, 8:16 AM - NUMBER: Excellent article on GSoC
+
+Oct 1st
+---
+
+- 11/1/19, 3:15 AM - NUMBER: Hi All. I am Hridoy Dutta, currently a Ph.D. scholar at IIIT Delhi working in the domain of Data Mining and Social Network Analysis.
+- 11/1/19, 3:16 AM - NUMBER: I recently developed Assamese2Vec, an open-source project for modeling the Assamese Language (Link: https://github.com/hridaydutta123/Assamese2Vec). The experimental results are pretty fascinating (check the results section in the repo). 
+
+I also maintain an awesome list (Link: https://github.com/hridaydutta123/awesome-assamese/) to help researchers and hobbyists who are interested to model the Assamese language for a variety of machine learning tasks.
+
+If you are interested in contributing to any of this project, please let me know.
+- 11/1/19, 7:29 AM - NUMBER: Hi Hriday, I would like to know more, your project seem to be interesting.
+
+if you are already on codepark , then can follow me 
+codepark.in/user/agarwalkrishh
+
+
+*Why you must participate*
+1. Prize money worth 1,00,000NUMBER
+2. First national level Code-A-thon by any University
+3. New concept of open coding ( 1000NUMBERquestion ranging from easy to advance)
+4. _Internship opportunity from various industries_ 
+5. Certificate to top performers
+6. There is no registration fee✌
+7. National level exposure
+- 11/1/19, 7:45 AM - NUMBER: *CodeVar* is a national level *Code-A-Thon* organized by *CodePark* along with *Vellore Institute of Technology, Vellore*. It aims to give a platform to all those interested in competitive coding and also to those interested in Coding. 
+It is based on the new concept of open Coding
+
+*Concept of open Coding*
+The concept of Code-A-Thon is completely new and different from regular hackathons.
+There will be a set of 1000NUMBERquestions given, which will be divided into easy, medium and hard. All the questions will have certain number of points. And hence everyone from the world of programming, whether he writes a 'Hello world' code or a complex code using arrays would be able to participate.
+- 11/1/19, 7:57 AM - NUMBER: Where can I find the eligibility criteria?
+- 11/1/19, 7:58 AM - NUMBER: All are eligible , this is a open code a thon
+just need to know a programming language. Thats it.
+- 11/1/19, 7:59 AM - NUMBER: Cool
+- 11/1/19, 8:26 AM - Amartya Sk: This is so awesome
+- 11/1/19, 9:19 AM - NUMBER: Amazing
+- 11/1/19, 11:07 AM - Saurav Das: Awesome
+- 11/1/19, 12:52 PM - Hrishikesh: Hi everyone, today is the last day of Hacktoberfest 2019. Hope you all had great fun this October 🥳💫
+
+Congratulations to all who completed the challenge! ✨ for those who did not, do not worry you can attempt it again next year.
+
+Even though Hacktoberfest is a good time for beginners to contribute to opensource. You should keep contributing to opensource throughout the year in your free time 🤸🤹
+
+All the best! 
+
+We have a feedback form here: 
+
+Please fill it if you have time.  
+
+https://forms.gle/HunJvvHTKz1kxfbZ9
+- 11/1/19, 12:52 PM - Hrishikesh: We have a very exciting AMA coming up tomorrow, will be making the announcement very soon. :)
+- 11/1/19, 12:55 PM - Hrishikesh: The feedback form is anonymous, so feel free to write anything that you feel will be a valuable feedback.
+- 11/1/19, 12:56 PM - NUMBER left
+- 11/1/19, 12:56 PM - Hrishikesh: Blogposts for the events that happened in the last two weeks will be published this weekend as well.
+- 11/1/19, 10:21 PM - NUMBER joined using this group's invite link
+
+Oct 2nd
+---
+
+- 11/2/19, 12:06 AM - NUMBER: <Media omitted>
+- 11/2/19, 12:06 AM - NUMBER: Got this badge just now😎
+- 11/2/19, 12:06 AM - Joinal: Awesome
+- 11/2/19, 12:06 AM - NUMBER: Congratulations😇
+- 11/2/19, 12:06 AM - NUMBER: Thanks dude 😎
+- 11/2/19, 12:07 AM - NUMBER: Thanks Anoop
+- 11/2/19, 9:01 AM - Hrishikesh: Thanks for the feedback yesterday, we have the *final ama* as part of Hacktoberfest today.
+
+Sayak Paul, he's currently working with PyImageSearch[1] where he works on real world deep learning problems. He was previously a data science instructor at DataCamp[2]. He's also a Google Developers Expert(GDE) and a Intel Software Innovator.
+
+You can ask him questions about his personal experiences in learning/ teaching and what are the difficulties in transitioning from a SDE to a ML engineer etc. Since he's working a lot image search, he'll be the right person to ask any meta image processing question you've been thinking of lately!
+
+Read more about his work here: https://www.linkedin.com/in/sayak-paul/
+
+[1] https://www.pyimagesearch.com/
+[2] https://www.datacamp.com/
+11/2/19, 9:04 AM - Hrishikesh: *AMA time:* 
+7PM-8PM
+2nd November
+- 11/2/19, 10:05 AM - Guyaec: awesome
+- 11/2/19, 10:50 AM - NUMBER: Awesome..
+- 11/2/19, 10:56 AM - NUMBER: Thanks😊
+- 11/2/19, 7:35 PM - Hrishikesh: Good evening everyone! 
+
+We have Sayak Paul for today's AMA. We already introduced him to the group but I'll encourage Sayak to quickly introduce himself to kickstart the ama. :)
+
+He's with us till *8:40PM*
+11/2/19, 7:37 PM - NUMBER: Hello Sayak,
+
+How you introduce Data Science to students?
+How was your experience at Data Camp?
+
+
+Being a niche, where to work on?
+- 11/2/19, 7:37 PM - NUMBER: Hello everyone. I am Sayak, a Deep Learning Associate at PyImageSearch. My work lies in areas like Computer Vision (domain invariant representations) and general Deep Learning. Pleased to be here :)
+- 11/2/19, 7:37 PM - NUMBER: 1.
+- 11/2/19, 7:37 PM - Hrishikesh: Correction: *8:10PM*
+- 11/2/19, 7:44 PM - NUMBER: Hi Anoop. I will take the second question first as the first question seems to be a bit more open-ended and I would ask you to be a bit more specific. 
+
+As for my experience at DataCamp, it was great.  I got to work with some really great people and the learning experience was just unreal. I thoroughly enjoyed my time there. 
+
+> Being a niche, where to work on?
+
+I think it depends a lot on your interests and I always ask people to prioritize that first. Fields like Data Science and Machine Learning are inter-connected and they are really vast in their own course. So, to help yourself for not getting drowned in the vastness, it's important to sort out your interests and plan accordingly. Maybe you are interested in using Deep Learning to solve Computer Vision problems. So, you would definitely want to try working on problems pertaining to that intersection. Once you get a good hold of the fundamentals (I cannot really emphasize this enough) start by picking up problems that are relatively new but still within your range. I typically try to work on problems (pet projects) which require me to study new stuff (at least 25%-30%). This system has so far worked for me quite well :)
+- 11/2/19, 7:47 PM - NUMBER: > How you introduce Data Science to students?
+
+I will try answering it briefly, though as I mentioned it's pretty open-ended. First, I try to gauge the expertise level of the students. If they are about to get started then I introduce Data Science by drawing analogies from our real lives - we use data-driven decision making all the time. Isn't it so? before going to a restaurant, we gather data about it and if we good ratings, reviews then only we go there. It's sort of an example that very elegantly establishes the idea of *data-driven decision making*.
+- 11/2/19, 7:53 PM - Joinal: Great, @NUMBER , I've seen many people get into ML/AI just because of its hype, how we as a community can address this? Do you have any such observations around it?
+- 11/2/19, 7:56 PM - NUMBER: Hi Sayak, one of the problems of our society is dropout rate of students. The data is available in govt website, but how to employ AI/ML to solve it?
+- 11/2/19, 7:58 PM - NUMBER: > Great, @NUMBER , I've seen many people get into ML/AI just because of its hype, how we as a community can address this? Do you have any such observations around it?
+
+Oh, absolutely! This is so very true. Sometimes the expectations can get really unrealistic which worries me. 
+
+Being explorers, students, professionals (and everyone else) always try to chase what's new. So that part is really hard to be helped I think. But at the same time, as a community, we can make them more aware of the fact that Machine Learning is not just about calling *model.fit()*, there's a world (several worlds if not less) beyond that. It's important to make them understand that a not-so-detailed approach towards learning the subject only leads to misery. I think Andrej Karpathy's article *A Recipe for Training Neural Networks* (http://karpathy.github.io/2019/04/25/recipe/) outlines this very beautifully.
+- 11/2/19, 8:00 PM - NUMBER: > Hi Sayak, one of the problems of our society is dropout rate of students. The data is available in govt website, but how to employ AI/ML to solve it?
+
+This is an interesting idea! Unfortunately, I have not yet taken a look at the data you mentioned. But if the features in that data are descriptive enough to justify why a student is dropping out, the relationship good enough to be modeled.
+- 11/2/19, 8:00 PM - Hrishikesh: Hello Sayak! This might be somewhat off topic, but I've been eyeing some medical startups which are using image processing to detect skin diseases, eye problems etc. however at the end of the day, people need to go see a doc. to validate the results. Basically, they are not extremely effective.
+
+Is there any way students can work on medical data that'll be having actual impacts. More research = More mistakes = results that actually works 😛
+
+It's almost demotivating sometimes because people in high tech labs with more precise medical equipments are working on these things already. 
+
+This field seems harder to break in compared to something like say "building a ml solution that helps students memorize something better" because the feedback loop is faster and is readily usable once it's working. 
+
+How long till people are able to work on medical data much like any other data out there. 
+
+Or it's already at that point and I am not aware of it.
+- 11/2/19, 8:02 PM - Joinal: Agreed, but the lucrative ads saying,  "Become a data scientist in a month, no programming knowledge is required " adds to the problem more
+- 11/2/19, 8:03 PM - NUMBER: So true
+- 11/2/19, 8:03 PM - NUMBER: I guess we, I mean members of this group, can start working on this project as a community effort!
+- 11/2/19, 8:04 PM - NUMBER: I saw a big ad just at the exit of Andheri Station (Major one in Western Mumbai) claiming to teach AI in a month 😅
+- 11/2/19, 8:05 PM - NUMBER: I saw few Fb ads claiming become data science expert in 1 month, and placement is guaranteed, and they will take fees only after you get a job with double figures salary.
+- 11/2/19, 8:05 PM - Guyaec: @NUMBER  Hey, nice to have you for the AMA, I wanted to ask your experience at PyImageSearch maybe share some problem/experience that you guys regularly deal with.
+
+Also what tips and suggestions would you have for someone aiming at a job in the Machine learning space other than project/strong basics.
+- 11/2/19, 8:06 PM - Joinal: NUMBER
+- 11/2/19, 8:08 PM - NUMBER: Hi Sir, 
+
+What projects did you get associated in the beginning of data science. Any tips for beginners ??
+- 11/2/19, 8:09 PM - NUMBER: Great question. I will try to answer it in parts. 
+
+First of all, you should definitely check out this startup: http://qure.ai/. 
+
+Indeed the field of medical imaging is progressing at a rapid pace with deep learning. I like to think of it as *Machine Learning assisted Human Tasks*. The idea here is to not really replace the doctors but to aid them in their work - accelerate their work at times. 
+
+Regarding working on medical imaging problems, there are a few open-source datasets that are good enough to start with. But this field also requires a lot of sensitivity in terms of privacy. So that's an added challenge. Also, Healthcare data, in general, is not easily available for obvious reasons. But it's good to at least try to approach to local medical institutions and give them some direction so that they could share any data within compliance (this can absolutely be done, I am saying this from my experience).
+- 11/2/19, 8:10 PM - NUMBER: Yes. We, as a community, should also highlight the failures that one may incur while pursuing something in this field. And continuously share the struggle :)
+- 11/2/19, 8:13 PM - NUMBER: For me, a typical day at PyImageSearch can involve the following:
+- *Code stuff*
+- Explore a new concept/Read an interesting paper and communicate that to the team
+- Put together notebooks to demo something
+- Deployment of some of our deep learning projects to embedded devices like Raspberry Pi, Jetson Nano and so on
+- Review PRs
+
+> Also what tips and suggestions would you have for someone aiming at a job in the Machine learning space other than project/strong basics.
+
+Try to approach things from a software engineer's perspective. Learn to debug a machine learning model and believe me it takes deliberate practice.
+- 11/2/19, 8:15 PM - NUMBER: Hi :)
+
+Of course, I had my Titanic, Pima-Indians moments (in fact I still poke around with them when I am trying out something new). But I always tried to remain hands-on. I tried to write my own training loops and compare their performance with something already established. That enabled me to think creatively and be an effective learner.
+- 11/2/19, 8:15 PM - Guyaec: thanks , I am a recent graduate so will be moving in for interviews now. Will keep the tip in mind.
+- 11/2/19, 8:17 PM - NUMBER: Sure :) You will not find many people (beginners especially) write test cases for their machine learning models whereas it is so very important when you are out there in the wild. Also, try to read other people's code because *A code is more read than it's written* :)
+- 11/2/19, 8:17 PM - Joinal: Awesome,  thanks @NUMBER for joining us today
+- 11/2/19, 8:17 PM - Joinal: If you have time can you take one more question
+- 11/2/19, 8:18 PM - Joinal: Or we can wrap up
+- 11/2/19, 8:18 PM - NUMBER: Yes, we can do one more.
+- 11/2/19, 8:18 PM - NUMBER: Thanks sir
+- 11/2/19, 8:18 PM - NUMBER: No problem.
+- 11/2/19, 8:18 PM - Joinal: I assume you learnt it all by yourself(correct me if I'm wrong)
+- 11/2/19, 8:19 PM - Joinal: How do you recommend, new learners specially students to plan their learning path
+- 11/2/19, 8:19 PM - Joinal: In terms of resources,  mindset etc
+- 11/2/19, 8:20 PM - NUMBER: I got hooked to Machine Learning when I had this subject called *Pattern Recognition and Machine Learning* in my undergrad curriculum. Fortunately or unfortunately my introduction to the field was pretty rigid and math-heavy. So, my curriculum indeed has a lot of influence on what I am today. I would say I partially self-taught.
+- 11/2/19, 8:22 PM - Hrishikesh: Thanks for sharing this :) surely will be helpful.
+- 11/2/19, 8:22 PM - NUMBER: We are currently working on a TensorFlow SIG that would deal with this very seriously. We will share the news once we have something concrete. 
+
+Regarding the mindset, just allow yourself to be free enough to learn things in an ego-free manner. Don't be embarrassed to be honest - learn like a child and ask questions like a pro :).
+- 11/2/19, 8:23 PM - NUMBER: Thanks, Joinal. It was indeed my pleasure to be here :)
+- 11/2/19, 8:23 PM - NUMBER: Good night everyone.
+- 11/2/19, 8:23 PM - NUMBER: * am
+- 11/2/19, 8:23 PM - Joinal: Thanks @NUMBER , we'll wrap up todays AMA due to lack of time
+- 11/2/19, 8:23 PM - NUMBER: Thank you!👍🏻
+This will be very helpful someone who directly wants to jumo into ML/AI just because of hype.
+
+Oct 4th 
+---
+
+- 11/4/19, 10:32 AM - NUMBER: Venue??
+- 11/4/19, 6:02 PM - NUMBER: Has anyone here applied to the Google STEP program or know someone who did?
+
+Oct 5th
+---
+
+- 11/5/19, 4:23 PM - NUMBER: <Media omitted>
+- 11/5/19, 4:23 PM - NUMBER: Congratulations bro.... @NUMBER 💥💥💥💥
+- 11/5/19, 4:49 PM - NUMBER: Congratulations brother @NUMBER
+- 11/5/19, 5:03 PM - NUMBER: congrats dada
+- 11/5/19, 5:03 PM - Hrishikesh: I just wanted to clarify something about the newspiece.
+- 11/5/19, 5:03 PM - NUMBER: Bravo brother @NUMBER #Inspiration👍🏻
+- 11/5/19, 5:13 PM - NUMBER: Yup.. What.??
+- 11/5/19, 5:14 PM - NUMBER: Congrats @NUMBER
+- 11/5/19, 5:15 PM - Kabir: Aaj likhega tu bro ?
+- 11/5/19, 5:19 PM - Hrishikesh: I am thankful for whoever from my college forwarded the post, but it is not 100% factually correct and was published without any verification or consent from my side. 
+
+Promcon is the annual conference for Prometheus [1]. Entry to the conference is ticket based, means anyone can go attend it you got the cash. 
+
+I am just going to attend it since I got the diversity scholarship, 
+There's the *Diversity Scholarship* is a scholarship that many organizations are giving away to increase diversity in tech. 
+
+The selection happens based on previous open source contributions and few other factors. 
+
+So i just wanted to clarify that, the *Selected* word in the title is misleading because anyone can go attend the event if they get the ticket, it's a community event.
+
+That's all. 
+
+Thank you for your wishes :) i hope to learn a lot there and then come back and will share whatever i learn with you ppl. 
+
+We need more ppl to go attend these conferences and get these scholarships and network as well. Our community will grow stronger then. :)
+
+Thanks for reading. I really wanted to get this out.
+- 11/5/19, 5:20 PM - Hrishikesh: 1. Prometheus: https://prometheus.io/
+- 11/5/19, 5:21 PM - Bhargav Hazarika: This message was deleted
+- 11/5/19, 5:21 PM - Bhargav Hazarika: 🤗
+- 11/5/19, 5:21 PM - Bhargav Hazarika: Anyway congrats bro!
+- 11/5/19, 5:22 PM - Bhargav Hazarika: Anyway Congrats Bro!
+- 11/5/19, 5:22 PM - NUMBER: Congrats for the scholarship too Hrishikesh da!
+- 11/5/19, 5:23 PM - Bhargav Hazarika: Internet 🐌
+- 11/5/19, 5:23 PM - Hrishikesh: Thanks :)
+
+Also in other news, we're planning to put an end to this WhatsApp group and start a discord group for long term conversations. 
+
+@NUMBER will fill you in with more details on it soon. :)
+- 11/5/19, 5:24 PM - Abhinab: Congratulations 🤩
+- 11/5/19, 5:26 PM - NUMBER: Congratulation
+- 11/5/19, 5:28 PM - NUMBER: that would be awesome! discord/slack are perfect fits for community!
+- 11/5/19, 5:29 PM - NUMBER: Also if anyone wants to apply for udacity scholarship: https://www.udacity.com/bertelsmann-tech-scholarships
+Today is the last date. So, better hurry!
+- 11/5/19, 5:36 PM - NUMBER: Congratulations
+- 11/5/19, 5:36 PM - NUMBER: Bravo for your honesty
+- 11/5/19, 5:48 PM - NUMBER: Congratulations bhaiya😁
+- 11/5/19, 5:48 PM - NUMBER: Congrats !
+- 11/5/19, 5:58 PM - NUMBER: Discord is always better than a whatsapp group
+- 11/5/19, 5:59 PM - NUMBER: Telegram!
+- 11/5/19, 6:00 PM - NUMBER: Discord and/or slack is the way to go imo
+- 11/5/19, 6:08 PM - NUMBER: Discord is love..
+- 11/5/19, 6:08 PM - NUMBER: Congratulations
+- 11/5/19, 6:10 PM - NUMBER: Congrats dada!
+- 11/5/19, 6:16 PM - NUMBER: Congrats @NUMBER
+- 11/5/19, 6:18 PM - NUMBER: Discord
+- 11/5/19, 6:18 PM - NUMBER: This message was deleted
+- 11/5/19, 6:20 PM - NUMBER: 🙂
+- 11/5/19, 6:50 PM - NUMBER: 👍
+- 11/5/19, 6:57 PM - NUMBER: <Media omitted>
+- 11/5/19, 6:57 PM - NUMBER: <Media omitted>
+- 11/5/19, 6:58 PM - Abhinab: 3
+- 11/5/19, 6:58 PM - Abhinab: 3
+- 11/5/19, 7:09 PM - NUMBER 100: This message was deleted
+- 11/5/19, 7:09 PM - NUMBER 100: Try option 4
+- 11/5/19, 7:11 PM - NUMBER: Just run it in terminal 😅
+- 11/5/19, 7:11 PM - NUMBER: 3
+- 11/5/19, 7:12 PM - NUMBER: 3
+- 11/5/19, 7:14 PM - NUMBER 100: Try option 3
+- 11/5/19, 7:43 PM - NUMBER: 3
+- 11/5/19, 7:44 PM - NUMBER: What is this for?
+- 11/5/19, 7:45 PM - NUMBER: 3 btw
+- 11/5/19, 7:45 PM - NUMBER 774: Congratulations 🎊
+- 11/5/19, 7:46 PM - NUMBER: congrats bro
+- 11/5/19, 8:41 PM - NUMBER: Congrats dada🥳
+- 11/5/19, 9:01 PM - NUMBER: 👍☺
+- 11/5/19, 9:50 PM - NUMBER: Congratulations bhai
+
+Oct 8th
+---
+
+- 11/8/19, 5:16 AM - NUMBER: https://github.com/VPanjeta/ModiScript/blob/master/README.md
+- 11/8/19, 5:16 AM - NUMBER: <Media omitted>
+- 11/8/19, 6:33 AM - Nitya: This message was deleted
+- 11/8/19, 7:14 AM - NUMBER: What's that all about?
+- 11/8/19, 7:49 AM - NUMBER: Lol 😂
+- 11/8/19, 7:55 AM - NUMBER: 😂😂
+- 11/8/19, 8:02 AM - NUMBER: 🤣🤣
+- 11/8/19, 9:16 AM - NUMBER: 😅😂😂
+- 11/8/19, 9:56 AM - NUMBER: Lmao. Readme 😂😂😂
+- 11/8/19, 11:49 AM - NUMBER: Does any one have electronics related WhatsApp group Invitation link
+- 11/8/19, 12:08 PM - Hrishikesh: The #electronics irc channel is the best place on the Internet in my opinion for quick electronics questions. 
+
+It's available on the freenode
+- 11/8/19, 2:09 PM - Joinal: Do we have anyone working on Flutter here?
+- 11/8/19, 2:58 PM - NUMBER: Yes
+- 11/8/19, 2:58 PM - Joinal: Ping me
+- 11/8/19, 4:42 PM - NUMBER: Yes
+- 11/8/19, 4:48 PM - NUMBER: 🤣🤣🤣
+- 11/8/19, 8:13 PM - NUMBER: Did anyone work with rasa - open ai conversation bot experience. I have started working for them as contributor
+- 11/8/19, 8:14 PM - NUMBER: Previously i worked with dialog flow. But i found rasa is still new to me.
+- 11/8/19, 8:33 PM - Joinal: Yes
+- 11/8/19, 8:36 PM - NUMBER: Recently raised a pr aroubd xmpp issue. How long they respond generally and long will i needed to eait for feedback
+- 11/8/19, 8:36 PM - NUMBER: Sorry for some typo errors
+- 11/8/19, 8:37 PM - NUMBER: Anyone worked with paraview?
+- 11/8/19, 8:59 PM - NUMBER: <Media omitted>
+- 11/8/19, 9:00 PM - NUMBER: 😂
+- 11/8/19, 9:02 PM - NUMBER: 😂
+- 11/8/19, 9:03 PM - NUMBER: 🤣🤣🤣
+- 11/8/19, 9:08 PM - NUMBER: Man I didn't know it was this simple
+- 11/8/19, 9:08 PM - NUMBER: 😂
+- 11/8/19, 9:08 PM - NUMBER: Looks like game dev is so easy😂
+- 11/8/19, 9:10 PM - NUMBER: Worked with dialogflow as an open source contributor or did projects using dialogflow?
+- 11/8/19, 9:11 PM - NUMBER: Did some hobby projects
+- 11/8/19, 9:12 PM - NUMBER: I want to create a discord bot that learns as the conversation continues. How hard do you figure that would be?
+- 11/8/19, 9:13 PM - NUMBER: Also if you have them on github, do you mind DMing me the link?
+- 11/8/19, 9:14 PM - NUMBER: I haven't push in github. I did only for learning and fun
+- 11/8/19, 9:18 PM - NUMBER: I guess it wont that much. I haven't work on bot yet that much. But i guess if you go to youtube there are many links which u might find useful
+- 11/8/19, 9:19 PM - NUMBER: If it is not ai. Only condition kind of thing. I'm guess it wont be much tougher
+- 11/8/19, 9:20 PM - NUMBER: Not hard coded responses. I want to use ai for the bot to respond
+- 11/8/19, 9:20 PM - NUMBER: I want it to develop a personality depending on what information i feed to it
+- 11/8/19, 9:20 PM - NUMBER: Is that even possible?
+- 11/8/19, 10:40 PM - NUMBER: Yes you can build. The thing bot will do. It will extract meaningful words from sentence and give end user the required result's.
+
+Suppose i wanted to purchase a tablet.
+
+Bot will take purchase and tablet and show required results. This results should be present in database or if u r using some sort of google search api
+- 11/8/19, 10:41 PM - NUMBER: I still not sure. As i havent got that far. But in theory something like this happens
+- 11/8/19, 10:42 PM - NUMBER: I guess u look for youtube or any other forum you will definitely find answers what ur searching for.
+- 11/8/19, 10:45 PM - NUMBER: I have worked with it
+- 11/8/19, 10:49 PM - NUMBER: I did one pr but it havent been merged. How long they usually respond and long i have to wait for feedback
+- 11/8/19, 10:50 PM - NUMBER: I was working in xmpp seever issue
+- 11/8/19, 10:52 PM - NUMBER: Not contributed to it.
+- 11/8/19, 10:52 PM - NUMBER: Ok got it.thanks
+
+Oct 9th
+---
+
+- 11/9/19, 12:07 PM - NUMBER: AEC_CTF_2019
+Way to Level-0 :
+https://aecctf2k19.netlify.com/
+All the Best
+Team AEC_CTF
+- 11/9/19, 8:32 PM - NUMBER: https://www.instagram.com/p/B4h-sD5l182/?igshid=14v2u4ndhqnj3
+- 11/9/19, 8:32 PM - NUMBER: Guys some of you already know about my page and follow my page  and I truly admire them but for those who don't know about it, Have a look .🤟🏻🔥
+It's an inspirational page and i hope you guys will love it and follow it ! ❤
+- 11/9/19, 8:34 PM - NUMBER: Hey, anyone work with react native? I encountered an error which I'm unable to solve in my own. And I couldn't find much about it on stackoverflow either. 
+Any helps are welcome!
+- 11/9/19, 8:42 PM - NUMBER: This message was deleted
+- 11/9/19, 9:21 PM - NUMBER: Microsoft Research (@NUMBERMSFTResearch) Tweeted:
+Become a Microsoft Research AI Resident in Redmond, WA or Cambridge, UK. We're seeking a diverse range of researchers, engineers & applied scientists with unique perspectives, including candidates without a traditional AI background. Apply by Jan 31, 2020: https://t.co/3ey5lbuiE7 (https://twitter.com/MSFTResearch/status/1192540646742999040?s=20)
+
+Oct 12th
+---
+
+- 11/12/19, 8:21 AM - NUMBER: https://drive.google.com/folderview?id=18CNcBOOh_U72QCBiqcYg3kXWoYh3XuPK
+- 11/12/19, 9:47 AM - NUMBER: Thanks for this, It's very much informative. 👌🏻
+- 11/12/19, 9:57 AM - NUMBER: 😌
+- 11/12/19, 9:57 AM - NUMBER: Do anyone have books related to graphic designing?
+- 11/12/19, 8:44 PM - NUMBER 100: This message was deleted
+- 11/12/19, 9:10 PM - NUMBER: Is the discord channel created?
+- 11/12/19, 9:10 PM - Anubhav: yep, we're just looking into a few things before making it live! sorry for the delay!
+- 11/12/19, 9:11 PM - NUMBER: No issues..we can wait
